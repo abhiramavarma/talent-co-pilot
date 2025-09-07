@@ -1,0 +1,3547 @@
+[
+  {
+    "employee_id": 3615,
+    "name": "Michael Davis",
+    "skills": [
+      "Jest",
+      "Flutter",
+      "Java"
+    ],
+    "experience_years": 9,
+    "certifications": [
+      "Oracle Certified Professional"
+    ],
+    "past_projects": [
+      {
+        "project_id": 4257,
+        "project_name": "Web Application Development - Bell-Morales",
+        "role": "Developer",
+        "start_date": "2023-12-28",
+        "end_date": "2024-06-18",
+        "success_rating": 0.914805883876721
+      },
+      {
+        "project_id": 8359,
+        "project_name": "System Integration - Webb, Harris and Wheeler",
+        "role": "Developer",
+        "start_date": "2025-01-25",
+        "end_date": "2025-04-21",
+        "success_rating": 0.8767797051627726
+      }
+    ],
+    "availability_percent": 85,
+    "last_updated": "2025-09-06T19:43:35.115120"
+  },
+  {
+    "employee_id": 5554,
+    "name": "Daniel Sims",
+    "skills": [
+      "Flutter",
+      "Cordova",
+      "Postman",
+      "Java",
+      "Rust"
+    ],
+    "experience_years": 12,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 5803,
+        "project_name": "Mobile App Development - Fox-Cochran",
+        "role": "Developer",
+        "start_date": "2024-12-11",
+        "end_date": "2025-04-16",
+        "success_rating": 0.9488213992758985
+      },
+      {
+        "project_id": 2139,
+        "project_name": "Cloud Migration - Perez-Davis",
+        "role": "Developer",
+        "start_date": "2024-08-12",
+        "end_date": "2025-02-05",
+        "success_rating": 0.7137473150966986
+      },
+      {
+        "project_id": 4814,
+        "project_name": "API Development - Barry, Clark and Perez",
+        "role": "Developer",
+        "start_date": "2022-04-17",
+        "end_date": "2022-07-30",
+        "success_rating": 0.9599451000265808
+      }
+    ],
+    "availability_percent": 88,
+    "last_updated": "2025-09-06T19:43:35.116537"
+  },
+  {
+    "employee_id": 8517,
+    "name": "Amanda Burke",
+    "skills": [
+      "Adobe XD",
+      "Sketch",
+      "Illustrator",
+      "Selenium",
+      "Elasticsearch"
+    ],
+    "experience_years": 8,
+    "certifications": [
+      "Kubernetes Administrator"
+    ],
+    "past_projects": [
+      {
+        "project_id": 6168,
+        "project_name": "Web Application Development - Chan, White and Rojas",
+        "role": "Developer",
+        "start_date": "2024-07-26",
+        "end_date": "2024-10-22",
+        "success_rating": 0.8203494361066986
+      },
+      {
+        "project_id": 6155,
+        "project_name": "Mobile App Development - Garza-Macdonald",
+        "role": "Tech Lead",
+        "start_date": "2023-07-30",
+        "end_date": "2023-10-22",
+        "success_rating": 0.7637879632162421
+      }
+    ],
+    "availability_percent": 63,
+    "last_updated": "2025-09-06T19:43:35.116537"
+  },
+  {
+    "employee_id": 7252,
+    "name": "Timothy Brown",
+    "skills": [
+      "Oracle",
+      "C#",
+      "Jupyter",
+      "Rust",
+      "Elasticsearch"
+    ],
+    "experience_years": 10,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 1771,
+        "project_name": "Performance Optimization - Jones-May",
+        "role": "Developer",
+        "start_date": "2024-03-13",
+        "end_date": "2024-05-05",
+        "success_rating": 0.9583308728999997
+      },
+      {
+        "project_id": 7916,
+        "project_name": "Data Analytics Platform - Burns, Roth and Russell",
+        "role": "Developer",
+        "start_date": "2024-08-21",
+        "end_date": "2024-10-30",
+        "success_rating": 0.8789227092195921
+      }
+    ],
+    "availability_percent": 88,
+    "last_updated": "2025-09-06T19:43:35.117546"
+  },
+  {
+    "employee_id": 1053,
+    "name": "Brian Gutierrez",
+    "skills": [
+      "Illustrator",
+      "Flutter",
+      "Canva"
+    ],
+    "experience_years": 13,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 5808,
+        "project_name": "Cloud Migration - Torres and Sons",
+        "role": "Developer",
+        "start_date": "2025-02-10",
+        "end_date": "2025-04-09",
+        "success_rating": 0.8304295752007315
+      }
+    ],
+    "availability_percent": 86,
+    "last_updated": "2025-09-06T19:43:35.117546"
+  },
+  {
+    "employee_id": 2290,
+    "name": "Jason Daugherty",
+    "skills": [
+      "Laravel",
+      "Postman",
+      "SQL",
+      "Spring Boot"
+    ],
+    "experience_years": 13,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 9005,
+        "project_name": "Web Application Development - Vargas-Ryan",
+        "role": "Developer",
+        "start_date": "2024-08-20",
+        "end_date": "2024-12-10",
+        "success_rating": 0.7058430227157496
+      },
+      {
+        "project_id": 4923,
+        "project_name": "Cloud Migration - Smith Inc",
+        "role": "Developer",
+        "start_date": "2024-03-14",
+        "end_date": "2024-06-30",
+        "success_rating": 0.7173775499482562
+      }
+    ],
+    "availability_percent": 70,
+    "last_updated": "2025-09-06T19:43:35.117546"
+  },
+  {
+    "employee_id": 1964,
+    "name": "Joseph Hopkins",
+    "skills": [
+      "Cordova",
+      "Xamarin",
+      "Canva",
+      "Spring Boot",
+      "Selenium",
+      "Cucumber"
+    ],
+    "experience_years": 9,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 7118,
+        "project_name": "API Development - White, Carter and Bryant",
+        "role": "Senior Developer",
+        "start_date": "2021-09-07",
+        "end_date": "2021-12-25",
+        "success_rating": 0.8314300251743512
+      },
+      {
+        "project_id": 4681,
+        "project_name": "Performance Optimization - Holden-Miller",
+        "role": "Developer",
+        "start_date": "2022-09-28",
+        "end_date": "2022-11-27",
+        "success_rating": 0.7192077688979034
+      },
+      {
+        "project_id": 4770,
+        "project_name": "Web Application Development - Barker, Maxwell and Guzman",
+        "role": "Tech Lead",
+        "start_date": "2025-06-16",
+        "end_date": "2025-12-13",
+        "success_rating": 0.8765320343231053
+      }
+    ],
+    "availability_percent": 58,
+    "last_updated": "2025-09-06T19:43:35.118545"
+  },
+  {
+    "employee_id": 2612,
+    "name": "Jeff Taylor",
+    "skills": [
+      "SQL Server",
+      "Bootstrap",
+      "Pytest"
+    ],
+    "experience_years": 10,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 7669,
+        "project_name": "Performance Optimization - Cordova LLC",
+        "role": "Senior Developer",
+        "start_date": "2024-03-30",
+        "end_date": "2024-06-30",
+        "success_rating": 0.7571229743085632
+      },
+      {
+        "project_id": 7939,
+        "project_name": "Mobile App Development - Wallace, Sullivan and Murphy",
+        "role": "Senior Developer",
+        "start_date": "2022-12-29",
+        "end_date": "2023-05-18",
+        "success_rating": 0.8233306828149214
+      }
+    ],
+    "availability_percent": 86,
+    "last_updated": "2025-09-06T19:43:35.119546"
+  },
+  {
+    "employee_id": 5092,
+    "name": "Mrs. Jennifer Warren",
+    "skills": [
+      "JUnit",
+      "Pandas"
+    ],
+    "experience_years": 10,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 7912,
+        "project_name": "Performance Optimization - Long, Daniel and Dominguez",
+        "role": "Developer",
+        "start_date": "2025-03-19",
+        "end_date": "2025-05-23",
+        "success_rating": 0.75504641073617
+      }
+    ],
+    "availability_percent": 86,
+    "last_updated": "2025-09-06T19:43:35.119546"
+  },
+  {
+    "employee_id": 1821,
+    "name": "Jasmine Ryan",
+    "skills": [
+      "PyTorch",
+      "Seaborn",
+      "Xamarin",
+      "Angular",
+      "Java"
+    ],
+    "experience_years": 10,
+    "certifications": [
+      "Certified Scrum Master"
+    ],
+    "past_projects": [
+      {
+        "project_id": 7930,
+        "project_name": "Database Design - Clark, Schneider and Williams",
+        "role": "Senior Developer",
+        "start_date": "2020-09-09",
+        "end_date": "2021-02-02",
+        "success_rating": 0.9089774510800488
+      },
+      {
+        "project_id": 5861,
+        "project_name": "Performance Optimization - West-Kelley",
+        "role": "Developer",
+        "start_date": "2020-10-12",
+        "end_date": "2020-12-20",
+        "success_rating": 0.7653102695242524
+      },
+      {
+        "project_id": 9883,
+        "project_name": "Web Application Development - Case LLC",
+        "role": "Tech Lead",
+        "start_date": "2021-01-12",
+        "end_date": "2021-07-09",
+        "success_rating": 0.7182872714429547
+      }
+    ],
+    "availability_percent": 69,
+    "last_updated": "2025-09-06T19:43:35.120545"
+  },
+  {
+    "employee_id": 9288,
+    "name": "Brittany Larson",
+    "skills": [
+      "Jest",
+      "Flutter",
+      "Postman",
+      "Cypress",
+      "Webpack",
+      "Android",
+      "JavaScript",
+      "Vue.js"
+    ],
+    "experience_years": 12,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 6147,
+        "project_name": "Cloud Migration - Branch PLC",
+        "role": "Developer",
+        "start_date": "2023-07-24",
+        "end_date": "2023-10-28",
+        "success_rating": 0.7716057857847538
+      },
+      {
+        "project_id": 5915,
+        "project_name": "System Integration - Mays-Reid",
+        "role": "Tech Lead",
+        "start_date": "2020-12-13",
+        "end_date": "2021-02-14",
+        "success_rating": 0.8371673717711356
+      },
+      {
+        "project_id": 2638,
+        "project_name": "Mobile App Development - Miller-Smith",
+        "role": "Senior Developer",
+        "start_date": "2023-06-26",
+        "end_date": "2023-07-28",
+        "success_rating": 0.7219782163298899
+      }
+    ],
+    "availability_percent": 94,
+    "last_updated": "2025-09-06T19:43:35.120545"
+  },
+  {
+    "employee_id": 3546,
+    "name": "Michael Thomas",
+    "skills": [
+      "Express.js",
+      "SQL",
+      "Nuxt.js",
+      "Bootstrap"
+    ],
+    "experience_years": 8,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 5905,
+        "project_name": "Web Application Development - Charles, Sanchez and Anderson",
+        "role": "Developer",
+        "start_date": "2025-01-01",
+        "end_date": "2025-06-21",
+        "success_rating": 0.9795268118308232
+      },
+      {
+        "project_id": 5333,
+        "project_name": "Mobile App Development - Daniels-Fletcher",
+        "role": "Developer",
+        "start_date": "2023-09-23",
+        "end_date": "2023-11-26",
+        "success_rating": 0.7346286011257306
+      }
+    ],
+    "availability_percent": 97,
+    "last_updated": "2025-09-06T19:43:35.121545"
+  },
+  {
+    "employee_id": 3426,
+    "name": "Gary Brooks",
+    "skills": [
+      "Seaborn",
+      "Jupyter",
+      "Elasticsearch",
+      "PostgreSQL",
+      "Prometheus"
+    ],
+    "experience_years": 7,
+    "certifications": [
+      "Docker Certified Associate",
+      "AWS Certified Developer"
+    ],
+    "past_projects": [
+      {
+        "project_id": 5291,
+        "project_name": "Web Application Development - Harris-Marshall",
+        "role": "Developer",
+        "start_date": "2025-07-09",
+        "end_date": "2025-11-01",
+        "success_rating": 0.7484745928821658
+      },
+      {
+        "project_id": 8007,
+        "project_name": "Performance Optimization - Buchanan LLC",
+        "role": "Tech Lead",
+        "start_date": "2022-09-13",
+        "end_date": "2023-03-03",
+        "success_rating": 0.8682720594324239
+      },
+      {
+        "project_id": 3442,
+        "project_name": "Mobile App Development - Miles Group",
+        "role": "Tech Lead",
+        "start_date": "2023-08-16",
+        "end_date": "2023-10-04",
+        "success_rating": 0.8636770867616567
+      }
+    ],
+    "availability_percent": 75,
+    "last_updated": "2025-09-06T19:43:35.121545"
+  },
+  {
+    "employee_id": 6728,
+    "name": "Tiffany Harris",
+    "skills": [
+      "Adobe XD",
+      "Webpack",
+      "Chai",
+      "JavaScript",
+      "Photoshop"
+    ],
+    "experience_years": 13,
+    "certifications": [
+      "Oracle Certified Professional"
+    ],
+    "past_projects": [
+      {
+        "project_id": 6442,
+        "project_name": "Web Application Development - Fisher and Sons",
+        "role": "Tech Lead",
+        "start_date": "2025-02-19",
+        "end_date": "2025-05-05",
+        "success_rating": 0.9347159488442895
+      },
+      {
+        "project_id": 3608,
+        "project_name": "System Integration - Boyd Group",
+        "role": "Senior Developer",
+        "start_date": "2020-12-12",
+        "end_date": "2021-03-15",
+        "success_rating": 0.9362123527406413
+      },
+      {
+        "project_id": 8711,
+        "project_name": "Mobile App Development - Bailey-Brewer",
+        "role": "Developer",
+        "start_date": "2022-09-23",
+        "end_date": "2023-01-28",
+        "success_rating": 0.7667301152636993
+      }
+    ],
+    "availability_percent": 86,
+    "last_updated": "2025-09-06T19:43:35.122545"
+  },
+  {
+    "employee_id": 1626,
+    "name": "Dakota David",
+    "skills": [
+      "Scikit-learn",
+      "GitLab CI",
+      "TypeScript",
+      "Tableau"
+    ],
+    "experience_years": 8,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 6425,
+        "project_name": "System Integration - Huynh-Martinez",
+        "role": "Developer",
+        "start_date": "2024-08-09",
+        "end_date": "2025-01-23",
+        "success_rating": 0.9817711420974147
+      },
+      {
+        "project_id": 3925,
+        "project_name": "Mobile App Development - Rivas Ltd",
+        "role": "Developer",
+        "start_date": "2024-02-18",
+        "end_date": "2024-05-24",
+        "success_rating": 0.8741769201216123
+      }
+    ],
+    "availability_percent": 92,
+    "last_updated": "2025-09-06T19:43:35.122545"
+  },
+  {
+    "employee_id": 5844,
+    "name": "Ryan Kaufman",
+    "skills": [
+      "Apache Spark",
+      "Jupyter",
+      "Elasticsearch",
+      "PostgreSQL",
+      "Principle",
+      "Redis"
+    ],
+    "experience_years": 10,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 4228,
+        "project_name": "Web Application Development - Johnson, Bridges and Griffin",
+        "role": "Tech Lead",
+        "start_date": "2022-03-07",
+        "end_date": "2022-08-17",
+        "success_rating": 0.8092664415343792
+      },
+      {
+        "project_id": 6143,
+        "project_name": "Mobile App Development - Lucas PLC",
+        "role": "Tech Lead",
+        "start_date": "2025-07-18",
+        "end_date": "2025-11-09",
+        "success_rating": 0.8990162428796633
+      },
+      {
+        "project_id": 6067,
+        "project_name": "Mobile App Development - Padilla, Esparza and Singleton",
+        "role": "Tech Lead",
+        "start_date": "2022-08-02",
+        "end_date": "2022-11-16",
+        "success_rating": 0.9000678712317189
+      }
+    ],
+    "availability_percent": 58,
+    "last_updated": "2025-09-06T19:43:35.123545"
+  },
+  {
+    "employee_id": 2389,
+    "name": "Dr. William Jenkins",
+    "skills": [
+      "Azure",
+      "Seaborn",
+      "GitLab CI",
+      "Selenium"
+    ],
+    "experience_years": 11,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 8238,
+        "project_name": "Cloud Migration - Ramirez-Goodman",
+        "role": "Developer",
+        "start_date": "2024-10-06",
+        "end_date": "2025-03-04",
+        "success_rating": 0.8326479397914421
+      },
+      {
+        "project_id": 8752,
+        "project_name": "API Development - Schmidt Inc",
+        "role": "Developer",
+        "start_date": "2025-05-29",
+        "end_date": "2025-11-05",
+        "success_rating": 0.9381206197318006
+      }
+    ],
+    "availability_percent": 95,
+    "last_updated": "2025-09-06T19:43:35.123545"
+  },
+  {
+    "employee_id": 7965,
+    "name": "Jonathan Gomez",
+    "skills": [
+      "C#",
+      "Selenium",
+      "FastAPI",
+      "Figma",
+      "Go"
+    ],
+    "experience_years": 9,
+    "certifications": [
+      "AWS Solutions Architect",
+      "PMP Certification"
+    ],
+    "past_projects": [
+      {
+        "project_id": 7291,
+        "project_name": "System Integration - Ashley, Johnson and Caldwell",
+        "role": "Developer",
+        "start_date": "2024-09-24",
+        "end_date": "2025-03-20",
+        "success_rating": 0.8483131507031311
+      },
+      {
+        "project_id": 1090,
+        "project_name": "API Development - Davis Ltd",
+        "role": "Tech Lead",
+        "start_date": "2024-07-29",
+        "end_date": "2024-10-04",
+        "success_rating": 0.96779794786341
+      }
+    ],
+    "availability_percent": 84,
+    "last_updated": "2025-09-06T19:43:35.124547"
+  },
+  {
+    "employee_id": 4841,
+    "name": "Heather Garrison DVM",
+    "skills": [
+      "Cordova",
+      "Laravel",
+      "Next.js",
+      "Express.js",
+      "Kotlin"
+    ],
+    "experience_years": 13,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 3607,
+        "project_name": "System Integration - Randolph Group",
+        "role": "Senior Developer",
+        "start_date": "2025-06-17",
+        "end_date": "2025-12-04",
+        "success_rating": 0.9230966326478754
+      },
+      {
+        "project_id": 5050,
+        "project_name": "Performance Optimization - Ortiz-Lopez",
+        "role": "Senior Developer",
+        "start_date": "2023-08-22",
+        "end_date": "2024-01-14",
+        "success_rating": 0.9519588663525762
+      },
+      {
+        "project_id": 4919,
+        "project_name": "Database Design - Rivas, Anderson and Mcdonald",
+        "role": "Senior Developer",
+        "start_date": "2024-08-17",
+        "end_date": "2025-01-27",
+        "success_rating": 0.7823792340752614
+      }
+    ],
+    "availability_percent": 53,
+    "last_updated": "2025-09-06T19:43:35.124547"
+  },
+  {
+    "employee_id": 4613,
+    "name": "Jesse Lynn",
+    "skills": [
+      "Pandas",
+      "CSS",
+      "Android",
+      "iOS",
+      "Rust",
+      "Flask"
+    ],
+    "experience_years": 9,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 7381,
+        "project_name": "Web Application Development - Mcbride, Mosley and Gray",
+        "role": "Senior Developer",
+        "start_date": "2023-01-13",
+        "end_date": "2023-04-05",
+        "success_rating": 0.9714515435020531
+      },
+      {
+        "project_id": 8814,
+        "project_name": "Web Application Development - Odonnell LLC",
+        "role": "Senior Developer",
+        "start_date": "2020-12-03",
+        "end_date": "2021-05-29",
+        "success_rating": 0.7017688250751979
+      },
+      {
+        "project_id": 7865,
+        "project_name": "Cloud Migration - Christian-Robertson",
+        "role": "Senior Developer",
+        "start_date": "2023-12-12",
+        "end_date": "2024-03-27",
+        "success_rating": 0.8614661702830695
+      }
+    ],
+    "availability_percent": 83,
+    "last_updated": "2025-09-06T19:43:35.126046"
+  },
+  {
+    "employee_id": 8657,
+    "name": "Frank Anderson",
+    "skills": [
+      "React Native",
+      "Prometheus"
+    ],
+    "experience_years": 13,
+    "certifications": [],
+    "past_projects": [],
+    "availability_percent": 95,
+    "last_updated": "2025-09-06T19:43:35.126046"
+  },
+  {
+    "employee_id": 6733,
+    "name": "David Hernandez",
+    "skills": [
+      "Jest",
+      "Ionic",
+      "Cypress"
+    ],
+    "experience_years": 10,
+    "certifications": [
+      "Microsoft Azure Fundamentals",
+      "PMP Certification"
+    ],
+    "past_projects": [
+      {
+        "project_id": 5558,
+        "project_name": "Cloud Migration - Jackson-Cuevas",
+        "role": "Senior Developer",
+        "start_date": "2023-01-01",
+        "end_date": "2023-04-27",
+        "success_rating": 0.9256029470664354
+      },
+      {
+        "project_id": 8705,
+        "project_name": "System Integration - Green and Sons",
+        "role": "Developer",
+        "start_date": "2024-07-20",
+        "end_date": "2024-10-22",
+        "success_rating": 0.7058149861150032
+      }
+    ],
+    "availability_percent": 76,
+    "last_updated": "2025-09-06T19:43:35.127055"
+  },
+  {
+    "employee_id": 1420,
+    "name": "Karen Chambers",
+    "skills": [
+      "Photoshop",
+      "Postman",
+      "JavaScript"
+    ],
+    "experience_years": 8,
+    "certifications": [
+      "Oracle Certified Professional"
+    ],
+    "past_projects": [
+      {
+        "project_id": 5198,
+        "project_name": "API Development - Underwood, Moore and Brown",
+        "role": "Developer",
+        "start_date": "2023-09-18",
+        "end_date": "2024-02-14",
+        "success_rating": 0.9300694295068722
+      },
+      {
+        "project_id": 3683,
+        "project_name": "Data Analytics Platform - Jordan Inc",
+        "role": "Developer",
+        "start_date": "2025-01-20",
+        "end_date": "2025-03-20",
+        "success_rating": 0.9894162319102263
+      }
+    ],
+    "availability_percent": 45,
+    "last_updated": "2025-09-06T19:43:35.127055"
+  },
+  {
+    "employee_id": 5397,
+    "name": "Caitlin Montes",
+    "skills": [
+      "Ruby on Rails",
+      "Azure",
+      "Postman",
+      "Java",
+      "Kubernetes",
+      "Tableau",
+      "NumPy",
+      "FastAPI"
+    ],
+    "experience_years": 10,
+    "certifications": [
+      "Kubernetes Administrator",
+      "AWS Solutions Architect"
+    ],
+    "past_projects": [
+      {
+        "project_id": 9031,
+        "project_name": "Cloud Migration - Lopez Ltd",
+        "role": "Senior Developer",
+        "start_date": "2024-01-29",
+        "end_date": "2024-03-02",
+        "success_rating": 0.7316616611931995
+      },
+      {
+        "project_id": 3506,
+        "project_name": "Cloud Migration - King-Beck",
+        "role": "Tech Lead",
+        "start_date": "2021-02-24",
+        "end_date": "2021-07-21",
+        "success_rating": 0.8306461435023031
+      },
+      {
+        "project_id": 8616,
+        "project_name": "Database Design - Franklin, Morales and Mitchell",
+        "role": "Senior Developer",
+        "start_date": "2025-03-18",
+        "end_date": "2025-09-01",
+        "success_rating": 0.8306723479011683
+      }
+    ],
+    "availability_percent": 82,
+    "last_updated": "2025-09-06T19:43:35.128060"
+  },
+  {
+    "employee_id": 6016,
+    "name": "Cynthia Barron",
+    "skills": [
+      "Ruby on Rails",
+      "InVision",
+      "AWS",
+      "SQLite",
+      "Express.js"
+    ],
+    "experience_years": 13,
+    "certifications": [
+      "ITIL Foundation",
+      "AWS Certified Developer"
+    ],
+    "past_projects": [
+      {
+        "project_id": 7658,
+        "project_name": "API Development - Smith, Garcia and Armstrong",
+        "role": "Developer",
+        "start_date": "2025-01-14",
+        "end_date": "2025-03-06",
+        "success_rating": 0.8465733540546362
+      },
+      {
+        "project_id": 9041,
+        "project_name": "API Development - Powell, Edwards and Wright",
+        "role": "Tech Lead",
+        "start_date": "2021-05-16",
+        "end_date": "2021-10-14",
+        "success_rating": 0.8344523648759712
+      },
+      {
+        "project_id": 4630,
+        "project_name": "Web Application Development - Vazquez PLC",
+        "role": "Senior Developer",
+        "start_date": "2022-04-15",
+        "end_date": "2022-06-07",
+        "success_rating": 0.8213203386033784
+      }
+    ],
+    "availability_percent": 93,
+    "last_updated": "2025-09-06T19:43:35.128060"
+  },
+  {
+    "employee_id": 5952,
+    "name": "Nathaniel Carter",
+    "skills": [
+      "Scikit-learn",
+      "Seaborn",
+      "ELK Stack",
+      "Sketch",
+      "Photoshop",
+      "Power BI"
+    ],
+    "experience_years": 10,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 9779,
+        "project_name": "Cloud Migration - Powers, King and Schmitt",
+        "role": "Tech Lead",
+        "start_date": "2023-10-16",
+        "end_date": "2023-12-15",
+        "success_rating": 0.9852632681180304
+      },
+      {
+        "project_id": 8933,
+        "project_name": "Data Analytics Platform - Lamb, Raymond and Luna",
+        "role": "Developer",
+        "start_date": "2024-04-22",
+        "end_date": "2024-07-10",
+        "success_rating": 0.7829498880906067
+      },
+      {
+        "project_id": 5853,
+        "project_name": "Database Design - Perez-Franklin",
+        "role": "Developer",
+        "start_date": "2022-05-24",
+        "end_date": "2022-07-18",
+        "success_rating": 0.7682449490447664
+      }
+    ],
+    "availability_percent": 95,
+    "last_updated": "2025-09-06T19:43:35.129060"
+  },
+  {
+    "employee_id": 4697,
+    "name": "Jason Brown",
+    "skills": [
+      "Scikit-learn",
+      "Next.js",
+      "SQL",
+      "SASS",
+      "TypeScript",
+      "SQL Server",
+      "Elasticsearch",
+      "MongoDB"
+    ],
+    "experience_years": 12,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 2070,
+        "project_name": "Database Design - Carter-Terrell",
+        "role": "Developer",
+        "start_date": "2021-08-15",
+        "end_date": "2022-01-14",
+        "success_rating": 0.8202122326755819
+      },
+      {
+        "project_id": 1878,
+        "project_name": "Mobile App Development - Baker, Porter and Johnson",
+        "role": "Tech Lead",
+        "start_date": "2024-10-05",
+        "end_date": "2025-03-31",
+        "success_rating": 0.7455181020852869
+      },
+      {
+        "project_id": 2940,
+        "project_name": "Database Design - Briggs-Terrell",
+        "role": "Developer",
+        "start_date": "2021-06-30",
+        "end_date": "2021-08-20",
+        "success_rating": 0.8674219103852885
+      }
+    ],
+    "availability_percent": 87,
+    "last_updated": "2025-09-06T19:43:35.130059"
+  },
+  {
+    "employee_id": 2166,
+    "name": "Lisa Miller",
+    "skills": [
+      "Flutter",
+      "Illustrator",
+      "iOS",
+      "MySQL",
+      "Cassandra",
+      "Figma"
+    ],
+    "experience_years": 11,
+    "certifications": [
+      "Google Cloud Professional"
+    ],
+    "past_projects": [
+      {
+        "project_id": 8699,
+        "project_name": "Web Application Development - Paul Ltd",
+        "role": "Senior Developer",
+        "start_date": "2023-10-28",
+        "end_date": "2024-03-10",
+        "success_rating": 0.7873777867093082
+      },
+      {
+        "project_id": 5632,
+        "project_name": "API Development - Freeman, Dennis and Harrison",
+        "role": "Tech Lead",
+        "start_date": "2024-05-03",
+        "end_date": "2024-08-14",
+        "success_rating": 0.9108962674281151
+      }
+    ],
+    "availability_percent": 86,
+    "last_updated": "2025-09-06T19:43:35.130059"
+  },
+  {
+    "employee_id": 2496,
+    "name": "Jeffrey Powell",
+    "skills": [
+      "Illustrator",
+      "Prometheus",
+      "iOS",
+      "Vue.js"
+    ],
+    "experience_years": 12,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 8679,
+        "project_name": "Database Design - Miller-Paul",
+        "role": "Developer",
+        "start_date": "2023-09-27",
+        "end_date": "2024-02-16",
+        "success_rating": 0.906603397363628
+      },
+      {
+        "project_id": 9847,
+        "project_name": "System Integration - Baker, Hawkins and Archer",
+        "role": "Tech Lead",
+        "start_date": "2025-01-10",
+        "end_date": "2025-04-19",
+        "success_rating": 0.8481385658035252
+      },
+      {
+        "project_id": 6280,
+        "project_name": "Mobile App Development - Parker, Sanders and Roberts",
+        "role": "Senior Developer",
+        "start_date": "2023-04-07",
+        "end_date": "2023-05-17",
+        "success_rating": 0.8811140922837731
+      }
+    ],
+    "availability_percent": 100,
+    "last_updated": "2025-09-06T19:43:35.131058"
+  },
+  {
+    "employee_id": 5722,
+    "name": "Brett Cook",
+    "skills": [
+      "Ionic",
+      "CSS",
+      "Sketch"
+    ],
+    "experience_years": 11,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 6700,
+        "project_name": "Mobile App Development - House, Kelly and Benson",
+        "role": "Developer",
+        "start_date": "2024-01-29",
+        "end_date": "2024-06-27",
+        "success_rating": 0.8225044280290046
+      },
+      {
+        "project_id": 3634,
+        "project_name": "Cloud Migration - Cantu-Smith",
+        "role": "Developer",
+        "start_date": "2024-09-18",
+        "end_date": "2024-11-13",
+        "success_rating": 0.7989410990736896
+      }
+    ],
+    "availability_percent": 85,
+    "last_updated": "2025-09-06T19:43:35.131058"
+  },
+  {
+    "employee_id": 5719,
+    "name": "Brian Cruz",
+    "skills": [
+      "InVision",
+      "Sketch",
+      "Nuxt.js"
+    ],
+    "experience_years": 11,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 6927,
+        "project_name": "Web Application Development - Lee, Walker and Pena",
+        "role": "Tech Lead",
+        "start_date": "2024-05-08",
+        "end_date": "2024-07-25",
+        "success_rating": 0.8867901617805134
+      },
+      {
+        "project_id": 4335,
+        "project_name": "Performance Optimization - Allen Inc",
+        "role": "Developer",
+        "start_date": "2023-10-20",
+        "end_date": "2024-03-11",
+        "success_rating": 0.7801168714818797
+      }
+    ],
+    "availability_percent": 96,
+    "last_updated": "2025-09-06T19:43:35.132061"
+  },
+  {
+    "employee_id": 4993,
+    "name": "Jason Gates",
+    "skills": [
+      "TensorFlow",
+      "TypeScript",
+      "C#",
+      "ASP.NET",
+      "Jupyter",
+      "Python"
+    ],
+    "experience_years": 7,
+    "certifications": [
+      "Python Institute PCAP"
+    ],
+    "past_projects": [
+      {
+        "project_id": 3522,
+        "project_name": "Performance Optimization - Foster LLC",
+        "role": "Developer",
+        "start_date": "2024-10-19",
+        "end_date": "2024-12-18",
+        "success_rating": 0.8495126514121586
+      },
+      {
+        "project_id": 5479,
+        "project_name": "Database Design - Mcclure-Schmidt",
+        "role": "Developer",
+        "start_date": "2025-02-20",
+        "end_date": "2025-07-30",
+        "success_rating": 0.8246471028806059
+      }
+    ],
+    "availability_percent": 60,
+    "last_updated": "2025-09-06T19:43:35.132061"
+  },
+  {
+    "employee_id": 4090,
+    "name": "Megan Ramirez",
+    "skills": [
+      "Swift",
+      "Cypress",
+      "React Native",
+      "iOS"
+    ],
+    "experience_years": 8,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 8316,
+        "project_name": "Performance Optimization - Figueroa, Sanchez and Huber",
+        "role": "Developer",
+        "start_date": "2025-06-27",
+        "end_date": "2025-09-03",
+        "success_rating": 0.8615741733111622
+      },
+      {
+        "project_id": 9903,
+        "project_name": "Cloud Migration - Horn-Adkins",
+        "role": "Developer",
+        "start_date": "2024-08-15",
+        "end_date": "2024-12-08",
+        "success_rating": 0.8131630162641658
+      }
+    ],
+    "availability_percent": 90,
+    "last_updated": "2025-09-06T19:43:35.133065"
+  },
+  {
+    "employee_id": 6546,
+    "name": "Christina Barnes",
+    "skills": [
+      "Figma",
+      "Adobe XD",
+      "Chai",
+      "Jenkins",
+      "Cucumber",
+      "TestNG"
+    ],
+    "experience_years": 13,
+    "certifications": [
+      "AWS Solutions Architect",
+      "PMP Certification"
+    ],
+    "past_projects": [
+      {
+        "project_id": 1251,
+        "project_name": "Mobile App Development - Smith, Ross and Smith",
+        "role": "Senior Developer",
+        "start_date": "2023-07-18",
+        "end_date": "2023-12-29",
+        "success_rating": 0.9167331482711928
+      },
+      {
+        "project_id": 8692,
+        "project_name": "System Integration - Bautista, Chapman and Jones",
+        "role": "Developer",
+        "start_date": "2023-04-10",
+        "end_date": "2023-06-18",
+        "success_rating": 0.9344575873819074
+      }
+    ],
+    "availability_percent": 92,
+    "last_updated": "2025-09-06T19:43:35.133065"
+  },
+  {
+    "employee_id": 1753,
+    "name": "Eric Snyder",
+    "skills": [
+      "Jest",
+      "Scikit-learn",
+      "TensorFlow"
+    ],
+    "experience_years": 8,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 2480,
+        "project_name": "Database Design - Vasquez-Gonzalez",
+        "role": "Developer",
+        "start_date": "2023-10-28",
+        "end_date": "2024-01-24",
+        "success_rating": 0.8301914415769377
+      },
+      {
+        "project_id": 8269,
+        "project_name": "Mobile App Development - Rodriguez, Lin and Hardin",
+        "role": "Developer",
+        "start_date": "2024-10-22",
+        "end_date": "2024-12-16",
+        "success_rating": 0.7499094360187675
+      }
+    ],
+    "availability_percent": 69,
+    "last_updated": "2025-09-06T19:43:35.134060"
+  },
+  {
+    "employee_id": 5183,
+    "name": "Heidi Willis",
+    "skills": [
+      "Oracle",
+      "Cypress",
+      "Android"
+    ],
+    "experience_years": 8,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 9153,
+        "project_name": "System Integration - Mccann-Martin",
+        "role": "Developer",
+        "start_date": "2025-01-19",
+        "end_date": "2025-04-20",
+        "success_rating": 0.9738487048070664
+      },
+      {
+        "project_id": 8555,
+        "project_name": "Data Analytics Platform - Gibson PLC",
+        "role": "Developer",
+        "start_date": "2024-06-06",
+        "end_date": "2024-09-03",
+        "success_rating": 0.8913713893010705
+      }
+    ],
+    "availability_percent": 86,
+    "last_updated": "2025-09-06T19:43:35.134060"
+  },
+  {
+    "employee_id": 9138,
+    "name": "Erin Williams",
+    "skills": [
+      "Flutter",
+      "Scikit-learn",
+      "Apache Spark",
+      "Illustrator",
+      "Principle"
+    ],
+    "experience_years": 12,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 8916,
+        "project_name": "Database Design - Walker Ltd",
+        "role": "Senior Developer",
+        "start_date": "2021-11-26",
+        "end_date": "2022-02-14",
+        "success_rating": 0.7319959802267082
+      },
+      {
+        "project_id": 5847,
+        "project_name": "System Integration - Ray-Thompson",
+        "role": "Senior Developer",
+        "start_date": "2023-04-24",
+        "end_date": "2023-10-17",
+        "success_rating": 0.9978076130880693
+      },
+      {
+        "project_id": 7484,
+        "project_name": "Database Design - Harris, Carroll and Brown",
+        "role": "Tech Lead",
+        "start_date": "2021-10-08",
+        "end_date": "2021-11-12",
+        "success_rating": 0.7823441140534683
+      }
+    ],
+    "availability_percent": 77,
+    "last_updated": "2025-09-06T19:43:35.135307"
+  },
+  {
+    "employee_id": 6549,
+    "name": "Samuel White",
+    "skills": [
+      "Jest",
+      "Laravel",
+      "Adobe XD",
+      "Sketch",
+      "Spring Boot"
+    ],
+    "experience_years": 10,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 7807,
+        "project_name": "Mobile App Development - Miller-Johnson",
+        "role": "Senior Developer",
+        "start_date": "2023-09-16",
+        "end_date": "2023-12-30",
+        "success_rating": 0.7526920211332919
+      },
+      {
+        "project_id": 9697,
+        "project_name": "Data Analytics Platform - Sanchez, Rios and Anderson",
+        "role": "Senior Developer",
+        "start_date": "2025-01-01",
+        "end_date": "2025-06-18",
+        "success_rating": 0.850538428679452
+      },
+      {
+        "project_id": 8894,
+        "project_name": "Database Design - Ramirez-Evans",
+        "role": "Senior Developer",
+        "start_date": "2023-05-04",
+        "end_date": "2023-07-15",
+        "success_rating": 0.9902152228500436
+      }
+    ],
+    "availability_percent": 91,
+    "last_updated": "2025-09-06T19:43:35.135307"
+  },
+  {
+    "employee_id": 5295,
+    "name": "Michael Meyer",
+    "skills": [
+      "Principle",
+      "Laravel",
+      "Figma"
+    ],
+    "experience_years": 12,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 5332,
+        "project_name": "System Integration - Mccann Group",
+        "role": "Developer",
+        "start_date": "2024-11-08",
+        "end_date": "2024-12-11",
+        "success_rating": 0.8609716924807177
+      }
+    ],
+    "availability_percent": 63,
+    "last_updated": "2025-09-06T19:43:35.136315"
+  },
+  {
+    "employee_id": 9807,
+    "name": "Zachary Cruz",
+    "skills": [
+      "Scikit-learn",
+      "Pandas",
+      "InVision",
+      "Express.js",
+      "Sketch"
+    ],
+    "experience_years": 11,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 2911,
+        "project_name": "Database Design - Miranda LLC",
+        "role": "Developer",
+        "start_date": "2024-04-01",
+        "end_date": "2024-08-13",
+        "success_rating": 0.7419331037521663
+      },
+      {
+        "project_id": 9071,
+        "project_name": "Web Application Development - Sims Ltd",
+        "role": "Developer",
+        "start_date": "2023-10-08",
+        "end_date": "2024-01-23",
+        "success_rating": 0.7348361442175328
+      }
+    ],
+    "availability_percent": 93,
+    "last_updated": "2025-09-06T19:43:35.136315"
+  },
+  {
+    "employee_id": 3001,
+    "name": "Thomas Mcmillan",
+    "skills": [
+      "TensorFlow",
+      "Oracle",
+      "Canva",
+      "Apache Spark",
+      "Illustrator",
+      "MongoDB"
+    ],
+    "experience_years": 7,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 7070,
+        "project_name": "Database Design - Preston-Tucker",
+        "role": "Tech Lead",
+        "start_date": "2025-03-29",
+        "end_date": "2025-05-06",
+        "success_rating": 0.7651809054092684
+      },
+      {
+        "project_id": 2627,
+        "project_name": "Performance Optimization - Smith, Woodward and Watson",
+        "role": "Senior Developer",
+        "start_date": "2022-07-21",
+        "end_date": "2022-10-19",
+        "success_rating": 0.9942783154972201
+      },
+      {
+        "project_id": 6876,
+        "project_name": "Cloud Migration - Diaz, Howell and Rice",
+        "role": "Tech Lead",
+        "start_date": "2024-05-08",
+        "end_date": "2024-10-24",
+        "success_rating": 0.7181650267499826
+      }
+    ],
+    "availability_percent": 62,
+    "last_updated": "2025-09-06T19:43:35.137373"
+  },
+  {
+    "employee_id": 1858,
+    "name": "Michaela Moore",
+    "skills": [
+      "Cordova",
+      "Pandas",
+      "Postman",
+      "Cypress"
+    ],
+    "experience_years": 9,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 3129,
+        "project_name": "Web Application Development - Ramsey, Cook and Farmer",
+        "role": "Developer",
+        "start_date": "2024-11-30",
+        "end_date": "2025-03-10",
+        "success_rating": 0.8620646370589454
+      },
+      {
+        "project_id": 1422,
+        "project_name": "Data Analytics Platform - Carpenter, Moore and Willis",
+        "role": "Tech Lead",
+        "start_date": "2023-05-27",
+        "end_date": "2023-07-24",
+        "success_rating": 0.7395409688685692
+      },
+      {
+        "project_id": 6304,
+        "project_name": "Cloud Migration - Hernandez-Williams",
+        "role": "Tech Lead",
+        "start_date": "2023-02-25",
+        "end_date": "2023-05-26",
+        "success_rating": 0.704734325053348
+      }
+    ],
+    "availability_percent": 92,
+    "last_updated": "2025-09-06T19:43:35.137373"
+  },
+  {
+    "employee_id": 9984,
+    "name": "Jennifer Madden",
+    "skills": [
+      "PyTorch",
+      "ELK Stack",
+      "Terraform",
+      "R",
+      "Apache Spark",
+      "React",
+      "Tailwind CSS"
+    ],
+    "experience_years": 10,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 7580,
+        "project_name": "Web Application Development - Hart, Howard and Schroeder",
+        "role": "Senior Developer",
+        "start_date": "2024-03-22",
+        "end_date": "2024-05-06",
+        "success_rating": 0.8278820857839975
+      },
+      {
+        "project_id": 8267,
+        "project_name": "Mobile App Development - Potter Inc",
+        "role": "Tech Lead",
+        "start_date": "2022-02-13",
+        "end_date": "2022-07-18",
+        "success_rating": 0.7220472147299352
+      },
+      {
+        "project_id": 3430,
+        "project_name": "Mobile App Development - Reilly Group",
+        "role": "Tech Lead",
+        "start_date": "2021-03-17",
+        "end_date": "2021-07-07",
+        "success_rating": 0.7197046699960341
+      }
+    ],
+    "availability_percent": 49,
+    "last_updated": "2025-09-06T19:43:35.138381"
+  },
+  {
+    "employee_id": 2099,
+    "name": "Brian Williams",
+    "skills": [
+      "Flutter",
+      "Cordova",
+      "Xamarin",
+      "Kubernetes",
+      "Canva",
+      "Grafana"
+    ],
+    "experience_years": 11,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 2557,
+        "project_name": "Performance Optimization - Sullivan-Adkins",
+        "role": "Senior Developer",
+        "start_date": "2025-06-11",
+        "end_date": "2025-10-21",
+        "success_rating": 0.7937645049991399
+      },
+      {
+        "project_id": 3500,
+        "project_name": "Cloud Migration - Mccarthy, Avery and Martin",
+        "role": "Senior Developer",
+        "start_date": "2023-05-23",
+        "end_date": "2023-08-26",
+        "success_rating": 0.906046310640093
+      }
+    ],
+    "availability_percent": 85,
+    "last_updated": "2025-09-06T19:43:35.138381"
+  },
+  {
+    "employee_id": 1430,
+    "name": "Nancy Richardson",
+    "skills": [
+      "Oracle",
+      "Webpack",
+      "Bootstrap",
+      "Flask"
+    ],
+    "experience_years": 13,
+    "certifications": [
+      "Docker Certified Associate",
+      "AWS Certified Developer"
+    ],
+    "past_projects": [
+      {
+        "project_id": 9313,
+        "project_name": "Database Design - Willis Inc",
+        "role": "Developer",
+        "start_date": "2023-06-28",
+        "end_date": "2023-10-26",
+        "success_rating": 0.7638216417016018
+      },
+      {
+        "project_id": 6736,
+        "project_name": "Performance Optimization - Moreno-Mitchell",
+        "role": "Developer",
+        "start_date": "2020-11-16",
+        "end_date": "2021-02-11",
+        "success_rating": 0.9536120255804035
+      },
+      {
+        "project_id": 4705,
+        "project_name": "Cloud Migration - Rios and Sons",
+        "role": "Senior Developer",
+        "start_date": "2022-10-11",
+        "end_date": "2022-12-09",
+        "success_rating": 0.9421664113457033
+      }
+    ],
+    "availability_percent": 70,
+    "last_updated": "2025-09-06T19:43:35.139585"
+  },
+  {
+    "employee_id": 6105,
+    "name": "Theresa Salinas",
+    "skills": [
+      "Apache Spark",
+      "DynamoDB",
+      "Adobe XD"
+    ],
+    "experience_years": 10,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 1502,
+        "project_name": "Mobile App Development - Clayton-Keller",
+        "role": "Tech Lead",
+        "start_date": "2025-04-04",
+        "end_date": "2025-06-09",
+        "success_rating": 0.7275273049163336
+      },
+      {
+        "project_id": 8432,
+        "project_name": "API Development - Solis, Arnold and Castro",
+        "role": "Senior Developer",
+        "start_date": "2025-07-05",
+        "end_date": "2025-11-08",
+        "success_rating": 0.8022687945307998
+      }
+    ],
+    "availability_percent": 89,
+    "last_updated": "2025-09-06T19:43:35.139585"
+  },
+  {
+    "employee_id": 8259,
+    "name": "Jose Wagner",
+    "skills": [
+      "Vue.js",
+      "Node.js",
+      "Webpack"
+    ],
+    "experience_years": 12,
+    "certifications": [],
+    "past_projects": [],
+    "availability_percent": 92,
+    "last_updated": "2025-09-06T19:43:35.139585"
+  },
+  {
+    "employee_id": 3248,
+    "name": "Christy Barnes",
+    "skills": [
+      "Jenkins",
+      "Canva",
+      "MySQL",
+      "Elasticsearch"
+    ],
+    "experience_years": 9,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 6053,
+        "project_name": "Performance Optimization - Wade PLC",
+        "role": "Developer",
+        "start_date": "2024-04-30",
+        "end_date": "2024-10-11",
+        "success_rating": 0.7136252087813282
+      },
+      {
+        "project_id": 1125,
+        "project_name": "System Integration - Hendricks-Landry",
+        "role": "Developer",
+        "start_date": "2025-02-12",
+        "end_date": "2025-03-28",
+        "success_rating": 0.7613269373061196
+      }
+    ],
+    "availability_percent": 94,
+    "last_updated": "2025-09-06T19:43:35.140598"
+  },
+  {
+    "employee_id": 6928,
+    "name": "Duane Burns",
+    "skills": [
+      "TensorFlow",
+      "Cucumber",
+      "Kubernetes",
+      "SQL",
+      "Bootstrap",
+      "Jenkins"
+    ],
+    "experience_years": 7,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 2275,
+        "project_name": "System Integration - Jones LLC",
+        "role": "Senior Developer",
+        "start_date": "2023-11-22",
+        "end_date": "2023-12-26",
+        "success_rating": 0.95863300408362
+      },
+      {
+        "project_id": 7843,
+        "project_name": "System Integration - Roberson-Sanchez",
+        "role": "Senior Developer",
+        "start_date": "2023-04-24",
+        "end_date": "2023-10-17",
+        "success_rating": 0.7868545616757274
+      },
+      {
+        "project_id": 3815,
+        "project_name": "System Integration - Watkins and Sons",
+        "role": "Senior Developer",
+        "start_date": "2021-05-17",
+        "end_date": "2021-06-21",
+        "success_rating": 0.9403966462931357
+      }
+    ],
+    "availability_percent": 65,
+    "last_updated": "2025-09-06T19:43:35.140598"
+  },
+  {
+    "employee_id": 3419,
+    "name": "Caleb Jones",
+    "skills": [
+      "InVision",
+      "Java",
+      "Jenkins",
+      "Illustrator",
+      "Flask",
+      "PHP"
+    ],
+    "experience_years": 9,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 2868,
+        "project_name": "Mobile App Development - Peck PLC",
+        "role": "Developer",
+        "start_date": "2025-07-04",
+        "end_date": "2025-12-11",
+        "success_rating": 0.8591814462317945
+      },
+      {
+        "project_id": 6752,
+        "project_name": "API Development - Oconnor Ltd",
+        "role": "Developer",
+        "start_date": "2025-07-05",
+        "end_date": "2025-11-01",
+        "success_rating": 0.9182137317021712
+      }
+    ],
+    "availability_percent": 80,
+    "last_updated": "2025-09-06T19:43:35.141999"
+  },
+  {
+    "employee_id": 5703,
+    "name": "Austin Walker",
+    "skills": [
+      "Express.js",
+      "Canva",
+      "DynamoDB",
+      "Apache Spark"
+    ],
+    "experience_years": 12,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 8205,
+        "project_name": "Cloud Migration - Gordon-Ramirez",
+        "role": "Developer",
+        "start_date": "2023-09-23",
+        "end_date": "2024-01-11",
+        "success_rating": 0.7204858775487268
+      },
+      {
+        "project_id": 1920,
+        "project_name": "Performance Optimization - Lambert-Wise",
+        "role": "Senior Developer",
+        "start_date": "2021-07-14",
+        "end_date": "2021-10-29",
+        "success_rating": 0.805582666786023
+      },
+      {
+        "project_id": 8404,
+        "project_name": "Mobile App Development - Rivera Ltd",
+        "role": "Senior Developer",
+        "start_date": "2025-07-02",
+        "end_date": "2025-10-19",
+        "success_rating": 0.7112821736713276
+      }
+    ],
+    "availability_percent": 89,
+    "last_updated": "2025-09-06T19:43:35.142998"
+  },
+  {
+    "employee_id": 6962,
+    "name": "Justin Bradshaw",
+    "skills": [
+      "Jest",
+      "React Native",
+      "Android"
+    ],
+    "experience_years": 12,
+    "certifications": [
+      "Meta React Developer Certificate"
+    ],
+    "past_projects": [
+      {
+        "project_id": 3827,
+        "project_name": "Mobile App Development - Horton-Ortiz",
+        "role": "Developer",
+        "start_date": "2024-03-17",
+        "end_date": "2024-08-23",
+        "success_rating": 0.7117426378602021
+      },
+      {
+        "project_id": 9586,
+        "project_name": "Performance Optimization - Roberts, Pineda and Bauer",
+        "role": "Developer",
+        "start_date": "2024-03-25",
+        "end_date": "2024-08-14",
+        "success_rating": 0.8568244105796636
+      }
+    ],
+    "availability_percent": 95,
+    "last_updated": "2025-09-06T19:43:35.142998"
+  },
+  {
+    "employee_id": 9624,
+    "name": "Dustin White",
+    "skills": [
+      "Jest",
+      "Postman",
+      "Mocha",
+      "Jenkins",
+      "Cassandra"
+    ],
+    "experience_years": 10,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 3463,
+        "project_name": "Database Design - Smith Group",
+        "role": "Tech Lead",
+        "start_date": "2023-08-10",
+        "end_date": "2023-11-12",
+        "success_rating": 0.800008610818167
+      },
+      {
+        "project_id": 7421,
+        "project_name": "Data Analytics Platform - Duffy, Greer and Green",
+        "role": "Senior Developer",
+        "start_date": "2023-03-31",
+        "end_date": "2023-07-28",
+        "success_rating": 0.7386854974814681
+      },
+      {
+        "project_id": 7171,
+        "project_name": "Mobile App Development - Elliott, Floyd and Chase",
+        "role": "Tech Lead",
+        "start_date": "2025-07-11",
+        "end_date": "2025-10-28",
+        "success_rating": 0.8930479790083958
+      }
+    ],
+    "availability_percent": 66,
+    "last_updated": "2025-09-06T19:43:35.143997"
+  },
+  {
+    "employee_id": 4145,
+    "name": "Denise Irwin",
+    "skills": [
+      "Jest",
+      "iOS",
+      "Mocha",
+      "Android"
+    ],
+    "experience_years": 10,
+    "certifications": [],
+    "past_projects": [],
+    "availability_percent": 55,
+    "last_updated": "2025-09-06T19:43:35.143997"
+  },
+  {
+    "employee_id": 6517,
+    "name": "Samantha Edwards",
+    "skills": [
+      "Nuxt.js",
+      "Bootstrap"
+    ],
+    "experience_years": 9,
+    "certifications": [],
+    "past_projects": [],
+    "availability_percent": 99,
+    "last_updated": "2025-09-06T19:43:35.143997"
+  },
+  {
+    "employee_id": 8170,
+    "name": "Amy Mccoy",
+    "skills": [
+      "Express.js",
+      "Selenium"
+    ],
+    "experience_years": 11,
+    "certifications": [],
+    "past_projects": [],
+    "availability_percent": 95,
+    "last_updated": "2025-09-06T19:43:35.143997"
+  },
+  {
+    "employee_id": 3626,
+    "name": "Joseph Rowe",
+    "skills": [
+      "Ruby on Rails",
+      "Laravel",
+      "Apache Spark",
+      "Illustrator",
+      "Photoshop",
+      "Pytest",
+      "NumPy"
+    ],
+    "experience_years": 12,
+    "certifications": [
+      "Docker Certified Associate",
+      "PMP Certification"
+    ],
+    "past_projects": [
+      {
+        "project_id": 7859,
+        "project_name": "System Integration - Christian Inc",
+        "role": "Tech Lead",
+        "start_date": "2021-05-13",
+        "end_date": "2021-10-18",
+        "success_rating": 0.9898804459617843
+      },
+      {
+        "project_id": 1854,
+        "project_name": "API Development - Franklin, Boyd and Hughes",
+        "role": "Senior Developer",
+        "start_date": "2020-10-14",
+        "end_date": "2020-12-18",
+        "success_rating": 0.8923537108613342
+      },
+      {
+        "project_id": 9452,
+        "project_name": "Cloud Migration - Garcia and Sons",
+        "role": "Developer",
+        "start_date": "2022-12-31",
+        "end_date": "2023-06-20",
+        "success_rating": 0.9553498144254337
+      }
+    ],
+    "availability_percent": 67,
+    "last_updated": "2025-09-06T19:43:35.144997"
+  },
+  {
+    "employee_id": 7326,
+    "name": "David Wilson",
+    "skills": [
+      "Jest",
+      "MySQL",
+      "Redis"
+    ],
+    "experience_years": 12,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 7495,
+        "project_name": "System Integration - Young-Smith",
+        "role": "Developer",
+        "start_date": "2025-02-26",
+        "end_date": "2025-04-10",
+        "success_rating": 0.8506021344079706
+      }
+    ],
+    "availability_percent": 93,
+    "last_updated": "2025-09-06T19:43:35.144997"
+  },
+  {
+    "employee_id": 8489,
+    "name": "Alexander Johnson",
+    "skills": [
+      "Angular",
+      "Next.js",
+      "Grafana",
+      "PostgreSQL",
+      "HTML"
+    ],
+    "experience_years": 8,
+    "certifications": [
+      "Google Cloud Professional",
+      "PMP Certification"
+    ],
+    "past_projects": [
+      {
+        "project_id": 1311,
+        "project_name": "Performance Optimization - Bautista and Sons",
+        "role": "Developer",
+        "start_date": "2024-08-02",
+        "end_date": "2024-09-02",
+        "success_rating": 0.7767771785311134
+      },
+      {
+        "project_id": 9647,
+        "project_name": "Data Analytics Platform - Roberts LLC",
+        "role": "Tech Lead",
+        "start_date": "2024-01-27",
+        "end_date": "2024-07-15",
+        "success_rating": 0.8269764276843969
+      },
+      {
+        "project_id": 2996,
+        "project_name": "Database Design - Sexton LLC",
+        "role": "Senior Developer",
+        "start_date": "2023-07-26",
+        "end_date": "2023-10-24",
+        "success_rating": 0.7143248339856554
+      }
+    ],
+    "availability_percent": 53,
+    "last_updated": "2025-09-06T19:43:35.144997"
+  },
+  {
+    "employee_id": 5155,
+    "name": "Justin Alvarez",
+    "skills": [
+      "Jest",
+      "Ionic",
+      "Canva"
+    ],
+    "experience_years": 8,
+    "certifications": [
+      "Google Cloud Professional",
+      "AWS Solutions Architect"
+    ],
+    "past_projects": [
+      {
+        "project_id": 9914,
+        "project_name": "Cloud Migration - Mitchell, Reed and Williams",
+        "role": "Tech Lead",
+        "start_date": "2024-12-28",
+        "end_date": "2025-02-13",
+        "success_rating": 0.852198308973936
+      },
+      {
+        "project_id": 1713,
+        "project_name": "Web Application Development - Johnson LLC",
+        "role": "Senior Developer",
+        "start_date": "2023-04-21",
+        "end_date": "2023-08-28",
+        "success_rating": 0.8907012374405889
+      }
+    ],
+    "availability_percent": 89,
+    "last_updated": "2025-09-06T19:43:35.145997"
+  },
+  {
+    "employee_id": 4131,
+    "name": "Jeffrey Weber",
+    "skills": [
+      "Ruby on Rails",
+      "InVision",
+      "Java",
+      "SQLite",
+      "Canva"
+    ],
+    "experience_years": 8,
+    "certifications": [
+      "Google Cloud Professional",
+      "PMP Certification"
+    ],
+    "past_projects": [
+      {
+        "project_id": 8498,
+        "project_name": "Data Analytics Platform - Norman, Lane and Walls",
+        "role": "Tech Lead",
+        "start_date": "2022-07-26",
+        "end_date": "2022-09-10",
+        "success_rating": 0.7110951370599327
+      },
+      {
+        "project_id": 1686,
+        "project_name": "API Development - Murphy-Hall",
+        "role": "Developer",
+        "start_date": "2024-02-02",
+        "end_date": "2024-03-14",
+        "success_rating": 0.7946787460149176
+      },
+      {
+        "project_id": 9897,
+        "project_name": "Database Design - Tyler LLC",
+        "role": "Senior Developer",
+        "start_date": "2024-09-04",
+        "end_date": "2025-02-12",
+        "success_rating": 0.842019930303053
+      }
+    ],
+    "availability_percent": 41,
+    "last_updated": "2025-09-06T19:43:35.146996"
+  },
+  {
+    "employee_id": 5843,
+    "name": "Dr. Kyle Hughes",
+    "skills": [
+      "Scikit-learn",
+      "PyTorch",
+      "TensorFlow",
+      "Postman",
+      "TypeScript"
+    ],
+    "experience_years": 9,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 9507,
+        "project_name": "Performance Optimization - Leon-Brown",
+        "role": "Senior Developer",
+        "start_date": "2021-11-02",
+        "end_date": "2022-04-08",
+        "success_rating": 0.7800162087406548
+      },
+      {
+        "project_id": 8055,
+        "project_name": "Mobile App Development - Baker, Herman and Rodriguez",
+        "role": "Developer",
+        "start_date": "2022-08-24",
+        "end_date": "2023-01-09",
+        "success_rating": 0.8807359896490682
+      },
+      {
+        "project_id": 6262,
+        "project_name": "Data Analytics Platform - Braun, Hogan and Richardson",
+        "role": "Senior Developer",
+        "start_date": "2024-09-21",
+        "end_date": "2025-03-09",
+        "success_rating": 0.7307793723346343
+      }
+    ],
+    "availability_percent": 90,
+    "last_updated": "2025-09-06T19:43:35.146996"
+  },
+  {
+    "employee_id": 7001,
+    "name": "Joseph Thompson",
+    "skills": [
+      "TensorFlow",
+      "Apache Spark",
+      "ASP.NET",
+      "Mocha",
+      "TestNG"
+    ],
+    "experience_years": 10,
+    "certifications": [
+      "AWS Solutions Architect"
+    ],
+    "past_projects": [
+      {
+        "project_id": 3621,
+        "project_name": "System Integration - Bass, Pineda and Price",
+        "role": "Tech Lead",
+        "start_date": "2022-10-29",
+        "end_date": "2023-03-01",
+        "success_rating": 0.9858368188838824
+      },
+      {
+        "project_id": 3068,
+        "project_name": "Data Analytics Platform - Aguirre, Terrell and Rogers",
+        "role": "Developer",
+        "start_date": "2023-03-21",
+        "end_date": "2023-08-10",
+        "success_rating": 0.7201700089186326
+      }
+    ],
+    "availability_percent": 80,
+    "last_updated": "2025-09-06T19:43:35.148288"
+  },
+  {
+    "employee_id": 3009,
+    "name": "Larry Lucas",
+    "skills": [
+      "Ruby on Rails",
+      "Flutter",
+      "Next.js",
+      "SASS",
+      "iOS",
+      "Rust"
+    ],
+    "experience_years": 7,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 4048,
+        "project_name": "API Development - Young Ltd",
+        "role": "Developer",
+        "start_date": "2021-10-16",
+        "end_date": "2021-12-14",
+        "success_rating": 0.84971318807694
+      },
+      {
+        "project_id": 5288,
+        "project_name": "System Integration - Hamilton, Williams and Henry",
+        "role": "Developer",
+        "start_date": "2024-04-20",
+        "end_date": "2024-10-10",
+        "success_rating": 0.9324893450594465
+      },
+      {
+        "project_id": 5678,
+        "project_name": "Performance Optimization - Lozano, Dyer and Black",
+        "role": "Tech Lead",
+        "start_date": "2021-12-31",
+        "end_date": "2022-03-25",
+        "success_rating": 0.9081941923122381
+      }
+    ],
+    "availability_percent": 69,
+    "last_updated": "2025-09-06T19:43:35.148288"
+  },
+  {
+    "employee_id": 6912,
+    "name": "Tony Coleman",
+    "skills": [
+      "InVision",
+      "Java",
+      "Sketch"
+    ],
+    "experience_years": 13,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 9335,
+        "project_name": "Data Analytics Platform - Wagner, Williams and Booker",
+        "role": "Developer",
+        "start_date": "2024-11-10",
+        "end_date": "2025-03-12",
+        "success_rating": 0.7672724845737869
+      },
+      {
+        "project_id": 4878,
+        "project_name": "API Development - Obrien-Johnson",
+        "role": "Developer",
+        "start_date": "2025-03-11",
+        "end_date": "2025-05-15",
+        "success_rating": 0.9371119182423248
+      }
+    ],
+    "availability_percent": 100,
+    "last_updated": "2025-09-06T19:43:35.149375"
+  },
+  {
+    "employee_id": 6669,
+    "name": "Christopher Fernandez",
+    "skills": [
+      "Cordova",
+      "PyTorch",
+      "Xamarin",
+      "Ionic",
+      "Oracle",
+      "Angular",
+      "SQL Server"
+    ],
+    "experience_years": 8,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 3981,
+        "project_name": "Cloud Migration - Tran Ltd",
+        "role": "Tech Lead",
+        "start_date": "2025-07-07",
+        "end_date": "2025-09-07",
+        "success_rating": 0.930334491207297
+      },
+      {
+        "project_id": 1907,
+        "project_name": "Data Analytics Platform - Conrad-Moran",
+        "role": "Tech Lead",
+        "start_date": "2024-08-16",
+        "end_date": "2025-01-03",
+        "success_rating": 0.9494172419402624
+      },
+      {
+        "project_id": 3653,
+        "project_name": "Data Analytics Platform - Watson Inc",
+        "role": "Developer",
+        "start_date": "2025-02-17",
+        "end_date": "2025-06-04",
+        "success_rating": 0.7967982253463667
+      }
+    ],
+    "availability_percent": 93,
+    "last_updated": "2025-09-06T19:43:35.149880"
+  },
+  {
+    "employee_id": 5336,
+    "name": "Luke Warren",
+    "skills": [
+      "Swift",
+      "Kotlin",
+      "Express.js"
+    ],
+    "experience_years": 10,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 6531,
+        "project_name": "Data Analytics Platform - Bowers-Cox",
+        "role": "Tech Lead",
+        "start_date": "2024-02-08",
+        "end_date": "2024-04-21",
+        "success_rating": 0.9527590012340167
+      },
+      {
+        "project_id": 1744,
+        "project_name": "Web Application Development - Gonzalez-Garza",
+        "role": "Developer",
+        "start_date": "2023-02-11",
+        "end_date": "2023-03-20",
+        "success_rating": 0.9845640561911175
+      }
+    ],
+    "availability_percent": 66,
+    "last_updated": "2025-09-06T19:43:35.150385"
+  },
+  {
+    "employee_id": 6121,
+    "name": "John Garza",
+    "skills": [
+      "Azure",
+      "PyTorch",
+      "Nuxt.js",
+      "Webpack",
+      "TypeScript",
+      "Prometheus"
+    ],
+    "experience_years": 8,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 3589,
+        "project_name": "Mobile App Development - Livingston-Salazar",
+        "role": "Developer",
+        "start_date": "2025-04-27",
+        "end_date": "2025-06-11",
+        "success_rating": 0.8318816499761232
+      },
+      {
+        "project_id": 4342,
+        "project_name": "Performance Optimization - Morrison Group",
+        "role": "Developer",
+        "start_date": "2024-03-16",
+        "end_date": "2024-08-11",
+        "success_rating": 0.8020577705055332
+      }
+    ],
+    "availability_percent": 96,
+    "last_updated": "2025-09-06T19:43:35.150385"
+  },
+  {
+    "employee_id": 8491,
+    "name": "Andrea Grant",
+    "skills": [
+      "Java",
+      "Cypress",
+      "React Native",
+      "Mocha",
+      "MongoDB",
+      "JUnit"
+    ],
+    "experience_years": 10,
+    "certifications": [
+      "Oracle Certified Master"
+    ],
+    "past_projects": [
+      {
+        "project_id": 6123,
+        "project_name": "Data Analytics Platform - Hopkins-Ellis",
+        "role": "Tech Lead",
+        "start_date": "2025-05-08",
+        "end_date": "2025-08-29",
+        "success_rating": 0.7569502303670079
+      },
+      {
+        "project_id": 8648,
+        "project_name": "Data Analytics Platform - Jenkins-Valdez",
+        "role": "Tech Lead",
+        "start_date": "2025-01-08",
+        "end_date": "2025-06-14",
+        "success_rating": 0.8496279125192963
+      },
+      {
+        "project_id": 2475,
+        "project_name": "Database Design - Martin, Morgan and Campos",
+        "role": "Developer",
+        "start_date": "2023-06-28",
+        "end_date": "2023-12-02",
+        "success_rating": 0.9835698412207712
+      }
+    ],
+    "availability_percent": 84,
+    "last_updated": "2025-09-06T19:43:35.151392"
+  },
+  {
+    "employee_id": 4189,
+    "name": "Jeremy Brooks",
+    "skills": [
+      "Jest",
+      "PyTorch",
+      "Cypress",
+      "SASS"
+    ],
+    "experience_years": 13,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 6992,
+        "project_name": "Data Analytics Platform - Odom LLC",
+        "role": "Developer",
+        "start_date": "2024-12-21",
+        "end_date": "2025-03-28",
+        "success_rating": 0.9291570292485969
+      },
+      {
+        "project_id": 7563,
+        "project_name": "Cloud Migration - Hernandez and Sons",
+        "role": "Developer",
+        "start_date": "2025-02-18",
+        "end_date": "2025-03-31",
+        "success_rating": 0.7153473062149025
+      }
+    ],
+    "availability_percent": 83,
+    "last_updated": "2025-09-06T19:43:35.151392"
+  },
+  {
+    "employee_id": 1637,
+    "name": "Jack Rivera",
+    "skills": [
+      "Flutter",
+      "React Native",
+      "iOS",
+      "Flask",
+      "FastAPI"
+    ],
+    "experience_years": 8,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 6990,
+        "project_name": "Cloud Migration - Palmer Ltd",
+        "role": "Developer",
+        "start_date": "2023-10-29",
+        "end_date": "2024-04-18",
+        "success_rating": 0.9264895516878382
+      },
+      {
+        "project_id": 7576,
+        "project_name": "API Development - Jefferson-Erickson",
+        "role": "Developer",
+        "start_date": "2023-09-23",
+        "end_date": "2024-03-01",
+        "success_rating": 0.8500233710711931
+      }
+    ],
+    "availability_percent": 99,
+    "last_updated": "2025-09-06T19:43:35.152392"
+  },
+  {
+    "employee_id": 4728,
+    "name": "David West",
+    "skills": [
+      "Laravel",
+      "Kotlin",
+      "Adobe XD",
+      "Canva",
+      "Android",
+      "iOS"
+    ],
+    "experience_years": 13,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 8780,
+        "project_name": "Performance Optimization - Webster-Payne",
+        "role": "Senior Developer",
+        "start_date": "2021-02-06",
+        "end_date": "2021-07-30",
+        "success_rating": 0.9447246499731472
+      },
+      {
+        "project_id": 2795,
+        "project_name": "Cloud Migration - Wilson Inc",
+        "role": "Tech Lead",
+        "start_date": "2023-07-11",
+        "end_date": "2023-11-02",
+        "success_rating": 0.9939694093537486
+      },
+      {
+        "project_id": 8775,
+        "project_name": "Database Design - Newman-Lee",
+        "role": "Tech Lead",
+        "start_date": "2025-01-16",
+        "end_date": "2025-02-21",
+        "success_rating": 0.7796591310957164
+      }
+    ],
+    "availability_percent": 80,
+    "last_updated": "2025-09-06T19:43:35.152392"
+  },
+  {
+    "employee_id": 5331,
+    "name": "Garrett Espinoza",
+    "skills": [
+      "Flutter",
+      "Scikit-learn",
+      "TensorFlow",
+      "Adobe XD",
+      "Express.js",
+      "React Native",
+      "Android",
+      "Photoshop"
+    ],
+    "experience_years": 11,
+    "certifications": [
+      "React Professional Certificate"
+    ],
+    "past_projects": [
+      {
+        "project_id": 3262,
+        "project_name": "Performance Optimization - Pierce PLC",
+        "role": "Tech Lead",
+        "start_date": "2024-05-24",
+        "end_date": "2024-07-08",
+        "success_rating": 0.8556049634680338
+      },
+      {
+        "project_id": 7173,
+        "project_name": "Cloud Migration - Lucas Group",
+        "role": "Tech Lead",
+        "start_date": "2022-09-30",
+        "end_date": "2023-03-01",
+        "success_rating": 0.7941257796213451
+      },
+      {
+        "project_id": 6608,
+        "project_name": "Data Analytics Platform - Williams Ltd",
+        "role": "Tech Lead",
+        "start_date": "2020-10-27",
+        "end_date": "2021-03-23",
+        "success_rating": 0.863881965773449
+      }
+    ],
+    "availability_percent": 80,
+    "last_updated": "2025-09-06T19:43:35.153393"
+  },
+  {
+    "employee_id": 5450,
+    "name": "Mr. Craig Gutierrez",
+    "skills": [
+      "Postman",
+      "Ionic",
+      "Kotlin",
+      "Cypress",
+      "SQL Server"
+    ],
+    "experience_years": 13,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 3399,
+        "project_name": "System Integration - Peterson, Barnes and Diaz",
+        "role": "Senior Developer",
+        "start_date": "2024-06-19",
+        "end_date": "2024-10-28",
+        "success_rating": 0.7871357955978806
+      },
+      {
+        "project_id": 8247,
+        "project_name": "Database Design - Salas and Sons",
+        "role": "Senior Developer",
+        "start_date": "2023-12-19",
+        "end_date": "2024-02-07",
+        "success_rating": 0.8967916151652723
+      },
+      {
+        "project_id": 9824,
+        "project_name": "Performance Optimization - Powell, Brooks and Cohen",
+        "role": "Developer",
+        "start_date": "2024-08-22",
+        "end_date": "2024-11-14",
+        "success_rating": 0.7813398165993927
+      }
+    ],
+    "availability_percent": 83,
+    "last_updated": "2025-09-06T19:43:35.153393"
+  },
+  {
+    "employee_id": 6262,
+    "name": "Theresa Adams",
+    "skills": [
+      "Azure",
+      "CSS",
+      "Terraform"
+    ],
+    "experience_years": 9,
+    "certifications": [
+      "Google Cloud Professional",
+      "AWS Solutions Architect"
+    ],
+    "past_projects": [
+      {
+        "project_id": 7666,
+        "project_name": "Web Application Development - Brady PLC",
+        "role": "Developer",
+        "start_date": "2023-09-06",
+        "end_date": "2024-02-23",
+        "success_rating": 0.8958678393103899
+      },
+      {
+        "project_id": 4267,
+        "project_name": "Performance Optimization - Le-Duffy",
+        "role": "Tech Lead",
+        "start_date": "2023-09-06",
+        "end_date": "2024-02-05",
+        "success_rating": 0.9267733178226218
+      }
+    ],
+    "availability_percent": 91,
+    "last_updated": "2025-09-06T19:43:35.154392"
+  },
+  {
+    "employee_id": 3662,
+    "name": "Matthew Melendez",
+    "skills": [
+      "React Native",
+      "SQL",
+      "iOS"
+    ],
+    "experience_years": 11,
+    "certifications": [
+      "Google Cloud Professional",
+      "Docker Certified Associate"
+    ],
+    "past_projects": [
+      {
+        "project_id": 2758,
+        "project_name": "Web Application Development - Burton, Hamilton and Cox",
+        "role": "Senior Developer",
+        "start_date": "2022-09-07",
+        "end_date": "2022-10-09",
+        "success_rating": 0.9785364538051051
+      },
+      {
+        "project_id": 9901,
+        "project_name": "Cloud Migration - Alexander LLC",
+        "role": "Senior Developer",
+        "start_date": "2024-12-23",
+        "end_date": "2025-04-04",
+        "success_rating": 0.8572955604506561
+      },
+      {
+        "project_id": 5470,
+        "project_name": "Data Analytics Platform - Martin-Warren",
+        "role": "Senior Developer",
+        "start_date": "2022-08-31",
+        "end_date": "2023-02-06",
+        "success_rating": 0.7578434194821428
+      }
+    ],
+    "availability_percent": 53,
+    "last_updated": "2025-09-06T19:43:35.154392"
+  },
+  {
+    "employee_id": 5272,
+    "name": "Philip Woods",
+    "skills": [
+      "TensorFlow",
+      "Seaborn",
+      "Jupyter",
+      "Tailwind CSS",
+      "Elasticsearch"
+    ],
+    "experience_years": 7,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 7567,
+        "project_name": "Cloud Migration - Smith Ltd",
+        "role": "Developer",
+        "start_date": "2024-04-02",
+        "end_date": "2024-05-24",
+        "success_rating": 0.9007767560229862
+      },
+      {
+        "project_id": 8822,
+        "project_name": "Data Analytics Platform - Gomez, Walter and Jackson",
+        "role": "Developer",
+        "start_date": "2025-01-05",
+        "end_date": "2025-03-11",
+        "success_rating": 0.7970805010255249
+      }
+    ],
+    "availability_percent": 67,
+    "last_updated": "2025-09-06T19:43:35.155391"
+  },
+  {
+    "employee_id": 3188,
+    "name": "Phillip Wolf",
+    "skills": [
+      "Illustrator",
+      "Mocha",
+      "JUnit",
+      "MySQL"
+    ],
+    "experience_years": 7,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 9233,
+        "project_name": "Data Analytics Platform - Jones-Meyer",
+        "role": "Tech Lead",
+        "start_date": "2024-02-27",
+        "end_date": "2024-07-09",
+        "success_rating": 0.976931804184135
+      },
+      {
+        "project_id": 5833,
+        "project_name": "Database Design - Hansen-Gonzales",
+        "role": "Tech Lead",
+        "start_date": "2025-04-10",
+        "end_date": "2025-06-09",
+        "success_rating": 0.810263170930651
+      }
+    ],
+    "availability_percent": 60,
+    "last_updated": "2025-09-06T19:43:35.155391"
+  },
+  {
+    "employee_id": 2489,
+    "name": "Matthew Fernandez",
+    "skills": [
+      "Flutter",
+      "Pandas",
+      "Principle",
+      "Tableau"
+    ],
+    "experience_years": 13,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 2838,
+        "project_name": "Cloud Migration - Willis-Bailey",
+        "role": "Tech Lead",
+        "start_date": "2025-02-16",
+        "end_date": "2025-04-06",
+        "success_rating": 0.7185274142670051
+      },
+      {
+        "project_id": 3455,
+        "project_name": "API Development - Castro Group",
+        "role": "Tech Lead",
+        "start_date": "2024-11-23",
+        "end_date": "2025-05-18",
+        "success_rating": 0.7493611469748265
+      },
+      {
+        "project_id": 4365,
+        "project_name": "Performance Optimization - Adams-Martin",
+        "role": "Tech Lead",
+        "start_date": "2024-07-03",
+        "end_date": "2024-08-31",
+        "success_rating": 0.915075389854195
+      }
+    ],
+    "availability_percent": 85,
+    "last_updated": "2025-09-06T19:43:35.156539"
+  },
+  {
+    "employee_id": 1356,
+    "name": "Amy Richardson",
+    "skills": [
+      "Ansible",
+      "Bootstrap",
+      "GitHub Actions"
+    ],
+    "experience_years": 9,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 8575,
+        "project_name": "Web Application Development - Dickson-Garcia",
+        "role": "Developer",
+        "start_date": "2025-02-22",
+        "end_date": "2025-08-14",
+        "success_rating": 0.9018303136682109
+      }
+    ],
+    "availability_percent": 91,
+    "last_updated": "2025-09-06T19:43:35.157046"
+  },
+  {
+    "employee_id": 3178,
+    "name": "Jessica Edwards",
+    "skills": [
+      "Java",
+      "CSS",
+      "R",
+      "React",
+      "Django"
+    ],
+    "experience_years": 7,
+    "certifications": [
+      "Oracle Certified Master",
+      "React Professional Certificate"
+    ],
+    "past_projects": [
+      {
+        "project_id": 7266,
+        "project_name": "System Integration - King-Kim",
+        "role": "Developer",
+        "start_date": "2024-01-25",
+        "end_date": "2024-05-29",
+        "success_rating": 0.8345611397988058
+      },
+      {
+        "project_id": 2314,
+        "project_name": "System Integration - Molina-Davis",
+        "role": "Developer",
+        "start_date": "2025-04-03",
+        "end_date": "2025-08-07",
+        "success_rating": 0.9048191062304624
+      }
+    ],
+    "availability_percent": 64,
+    "last_updated": "2025-09-06T19:43:35.158056"
+  },
+  {
+    "employee_id": 8191,
+    "name": "Carolyn Smith",
+    "skills": [
+      "Postman",
+      "Cucumber",
+      "React Native",
+      "Chai"
+    ],
+    "experience_years": 10,
+    "certifications": [
+      "Google Cloud Professional",
+      "Docker Certified Associate"
+    ],
+    "past_projects": [
+      {
+        "project_id": 7868,
+        "project_name": "API Development - Harris LLC",
+        "role": "Developer",
+        "start_date": "2021-05-09",
+        "end_date": "2021-07-06",
+        "success_rating": 0.8844769621626737
+      },
+      {
+        "project_id": 2102,
+        "project_name": "Web Application Development - Hendrix, Harris and Mcdaniel",
+        "role": "Developer",
+        "start_date": "2023-11-27",
+        "end_date": "2024-02-26",
+        "success_rating": 0.7302690139277521
+      },
+      {
+        "project_id": 1797,
+        "project_name": "Web Application Development - Rodriguez-Bailey",
+        "role": "Tech Lead",
+        "start_date": "2021-02-06",
+        "end_date": "2021-06-30",
+        "success_rating": 0.7734202453655177
+      }
+    ],
+    "availability_percent": 49,
+    "last_updated": "2025-09-06T19:43:35.159057"
+  },
+  {
+    "employee_id": 7244,
+    "name": "Pamela Barron",
+    "skills": [
+      "Laravel",
+      "Kotlin",
+      "Express.js",
+      "Android"
+    ],
+    "experience_years": 11,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 5508,
+        "project_name": "API Development - Black-Zamora",
+        "role": "Senior Developer",
+        "start_date": "2024-06-12",
+        "end_date": "2024-10-25",
+        "success_rating": 0.7182872911320286
+      },
+      {
+        "project_id": 9120,
+        "project_name": "Data Analytics Platform - Holloway and Sons",
+        "role": "Tech Lead",
+        "start_date": "2023-03-01",
+        "end_date": "2023-07-18",
+        "success_rating": 0.7140652290857364
+      }
+    ],
+    "availability_percent": 89,
+    "last_updated": "2025-09-06T19:43:35.159057"
+  },
+  {
+    "employee_id": 7761,
+    "name": "Claire Hunter",
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Pytest"
+    ],
+    "experience_years": 12,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 3365,
+        "project_name": "API Development - Garcia Inc",
+        "role": "Developer",
+        "start_date": "2025-07-27",
+        "end_date": "2025-11-10",
+        "success_rating": 0.9417328479804661
+      }
+    ],
+    "availability_percent": 99,
+    "last_updated": "2025-09-06T19:43:35.160302"
+  },
+  {
+    "employee_id": 6269,
+    "name": "Kendra Johnson",
+    "skills": [
+      "SQLite",
+      "Kubernetes",
+      "Adobe XD",
+      "Flask",
+      "GitHub Actions",
+      "Photoshop",
+      "Jenkins",
+      "Figma"
+    ],
+    "experience_years": 8,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 4555,
+        "project_name": "Web Application Development - Smith-Melendez",
+        "role": "Developer",
+        "start_date": "2022-01-10",
+        "end_date": "2022-02-27",
+        "success_rating": 0.8438182619412744
+      },
+      {
+        "project_id": 4470,
+        "project_name": "Cloud Migration - Mcknight-Anderson",
+        "role": "Developer",
+        "start_date": "2023-08-08",
+        "end_date": "2023-11-23",
+        "success_rating": 0.9811479289606744
+      },
+      {
+        "project_id": 4350,
+        "project_name": "Mobile App Development - Wang and Sons",
+        "role": "Developer",
+        "start_date": "2023-09-04",
+        "end_date": "2024-02-03",
+        "success_rating": 0.8189896179328705
+      }
+    ],
+    "availability_percent": 93,
+    "last_updated": "2025-09-06T19:43:35.160302"
+  },
+  {
+    "employee_id": 5272,
+    "name": "Charles Erickson",
+    "skills": [
+      "Cordova",
+      "Ionic",
+      "Canva",
+      "R",
+      "Illustrator",
+      "Matplotlib"
+    ],
+    "experience_years": 9,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 4328,
+        "project_name": "Performance Optimization - Bowman-Dominguez",
+        "role": "Developer",
+        "start_date": "2025-03-31",
+        "end_date": "2025-07-20",
+        "success_rating": 0.8112114764293775
+      },
+      {
+        "project_id": 4625,
+        "project_name": "System Integration - Thomas Inc",
+        "role": "Developer",
+        "start_date": "2025-04-11",
+        "end_date": "2025-05-22",
+        "success_rating": 0.9223757136149466
+      }
+    ],
+    "availability_percent": 100,
+    "last_updated": "2025-09-06T19:43:35.161307"
+  },
+  {
+    "employee_id": 9037,
+    "name": "Zachary Alvarado",
+    "skills": [
+      "JUnit",
+      "Redis",
+      "Oracle"
+    ],
+    "experience_years": 8,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 6530,
+        "project_name": "API Development - Allen LLC",
+        "role": "Developer",
+        "start_date": "2024-12-18",
+        "end_date": "2025-05-24",
+        "success_rating": 0.7771980272904648
+      }
+    ],
+    "availability_percent": 71,
+    "last_updated": "2025-09-06T19:43:35.161307"
+  },
+  {
+    "employee_id": 8471,
+    "name": "William Phillips",
+    "skills": [
+      "PyTorch",
+      "Cypress",
+      "SQL",
+      "Spring Boot"
+    ],
+    "experience_years": 8,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 3252,
+        "project_name": "Web Application Development - Mclaughlin Inc",
+        "role": "Senior Developer",
+        "start_date": "2023-07-05",
+        "end_date": "2023-08-05",
+        "success_rating": 0.9527634150476045
+      },
+      {
+        "project_id": 3474,
+        "project_name": "API Development - Mendoza-Bowen",
+        "role": "Tech Lead",
+        "start_date": "2025-03-30",
+        "end_date": "2025-05-16",
+        "success_rating": 0.7027424385071985
+      }
+    ],
+    "availability_percent": 84,
+    "last_updated": "2025-09-06T19:43:35.161307"
+  },
+  {
+    "employee_id": 4700,
+    "name": "Russell Hunt",
+    "skills": [
+      "TensorFlow",
+      "Canva",
+      "Terraform",
+      "React"
+    ],
+    "experience_years": 10,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 9591,
+        "project_name": "Data Analytics Platform - Buchanan-Webb",
+        "role": "Developer",
+        "start_date": "2024-09-13",
+        "end_date": "2024-11-09",
+        "success_rating": 0.7446692457220752
+      },
+      {
+        "project_id": 6807,
+        "project_name": "API Development - Rivera Group",
+        "role": "Senior Developer",
+        "start_date": "2020-09-17",
+        "end_date": "2021-02-28",
+        "success_rating": 0.7801974210029907
+      },
+      {
+        "project_id": 7652,
+        "project_name": "System Integration - Harmon Ltd",
+        "role": "Senior Developer",
+        "start_date": "2023-02-14",
+        "end_date": "2023-04-05",
+        "success_rating": 0.8376993236653555
+      }
+    ],
+    "availability_percent": 93,
+    "last_updated": "2025-09-06T19:43:35.162304"
+  },
+  {
+    "employee_id": 8790,
+    "name": "Harry Diaz",
+    "skills": [
+      "AWS",
+      "CSS",
+      "Kubernetes"
+    ],
+    "experience_years": 10,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 2562,
+        "project_name": "Cloud Migration - Contreras Ltd",
+        "role": "Developer",
+        "start_date": "2025-06-22",
+        "end_date": "2025-12-13",
+        "success_rating": 0.9684373636428099
+      },
+      {
+        "project_id": 4463,
+        "project_name": "Web Application Development - Newton Ltd",
+        "role": "Developer",
+        "start_date": "2025-03-21",
+        "end_date": "2025-06-17",
+        "success_rating": 0.9703818877073755
+      }
+    ],
+    "availability_percent": 82,
+    "last_updated": "2025-09-06T19:43:35.162304"
+  },
+  {
+    "employee_id": 4803,
+    "name": "Lindsey Mckee",
+    "skills": [
+      "Seaborn",
+      "Express.js",
+      "Spring Boot"
+    ],
+    "experience_years": 10,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 3661,
+        "project_name": "System Integration - Hinton-Carey",
+        "role": "Senior Developer",
+        "start_date": "2022-04-13",
+        "end_date": "2022-06-01",
+        "success_rating": 0.8691874598871294
+      },
+      {
+        "project_id": 7288,
+        "project_name": "System Integration - Williamson-Henderson",
+        "role": "Senior Developer",
+        "start_date": "2022-04-27",
+        "end_date": "2022-10-12",
+        "success_rating": 0.9266827793562676
+      },
+      {
+        "project_id": 6666,
+        "project_name": "Data Analytics Platform - Estrada, Sanders and Davis",
+        "role": "Tech Lead",
+        "start_date": "2021-12-18",
+        "end_date": "2022-02-06",
+        "success_rating": 0.716108929584218
+      }
+    ],
+    "availability_percent": 87,
+    "last_updated": "2025-09-06T19:43:35.163303"
+  },
+  {
+    "employee_id": 8286,
+    "name": "Mrs. Bethany Moreno",
+    "skills": [
+      "Oracle",
+      "Photoshop",
+      "Pytest",
+      "Cassandra",
+      "Framer"
+    ],
+    "experience_years": 9,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 5839,
+        "project_name": "System Integration - Lee-Flores",
+        "role": "Tech Lead",
+        "start_date": "2023-10-23",
+        "end_date": "2023-12-13",
+        "success_rating": 0.939416552140824
+      },
+      {
+        "project_id": 3526,
+        "project_name": "Mobile App Development - Hall Inc",
+        "role": "Senior Developer",
+        "start_date": "2023-01-09",
+        "end_date": "2023-03-01",
+        "success_rating": 0.8139999979250367
+      },
+      {
+        "project_id": 6909,
+        "project_name": "Data Analytics Platform - Watts, Barnes and Williamson",
+        "role": "Senior Developer",
+        "start_date": "2022-03-03",
+        "end_date": "2022-07-10",
+        "success_rating": 0.7319652753133783
+      }
+    ],
+    "availability_percent": 51,
+    "last_updated": "2025-09-06T19:43:35.164311"
+  },
+  {
+    "employee_id": 3390,
+    "name": "Brianna Trujillo",
+    "skills": [
+      "Principle",
+      "PHP",
+      "Canva",
+      "React"
+    ],
+    "experience_years": 8,
+    "certifications": [
+      "React Professional Certificate"
+    ],
+    "past_projects": [
+      {
+        "project_id": 5781,
+        "project_name": "Cloud Migration - Hernandez Ltd",
+        "role": "Developer",
+        "start_date": "2025-06-27",
+        "end_date": "2025-11-02",
+        "success_rating": 0.8241430209304382
+      },
+      {
+        "project_id": 9537,
+        "project_name": "Mobile App Development - Walker-Allen",
+        "role": "Developer",
+        "start_date": "2022-07-28",
+        "end_date": "2023-01-17",
+        "success_rating": 0.7508748770176976
+      },
+      {
+        "project_id": 5405,
+        "project_name": "System Integration - Mckee, Sandoval and Scott",
+        "role": "Developer",
+        "start_date": "2021-10-01",
+        "end_date": "2021-12-13",
+        "success_rating": 0.7903393796125205
+      }
+    ],
+    "availability_percent": 85,
+    "last_updated": "2025-09-06T19:43:35.164311"
+  },
+  {
+    "employee_id": 3230,
+    "name": "Vanessa Weaver",
+    "skills": [
+      "Cypress",
+      "Elasticsearch",
+      "GitHub Actions",
+      "Ansible"
+    ],
+    "experience_years": 13,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 5991,
+        "project_name": "Performance Optimization - Sanchez-Davis",
+        "role": "Developer",
+        "start_date": "2022-11-17",
+        "end_date": "2023-01-13",
+        "success_rating": 0.7020302108276414
+      },
+      {
+        "project_id": 7224,
+        "project_name": "System Integration - Huerta-Lutz",
+        "role": "Tech Lead",
+        "start_date": "2022-05-13",
+        "end_date": "2022-09-05",
+        "success_rating": 0.9412229385872147
+      },
+      {
+        "project_id": 8055,
+        "project_name": "Cloud Migration - Estrada Inc",
+        "role": "Senior Developer",
+        "start_date": "2025-04-30",
+        "end_date": "2025-09-19",
+        "success_rating": 0.9446426410009009
+      }
+    ],
+    "availability_percent": 80,
+    "last_updated": "2025-09-06T19:43:35.165307"
+  },
+  {
+    "employee_id": 2211,
+    "name": "Frederick Summers",
+    "skills": [
+      "Java",
+      "Adobe XD",
+      "Oracle",
+      "Express.js",
+      "Elasticsearch",
+      "Photoshop"
+    ],
+    "experience_years": 12,
+    "certifications": [
+      "Oracle Certified Professional"
+    ],
+    "past_projects": [
+      {
+        "project_id": 4434,
+        "project_name": "Web Application Development - Burns and Sons",
+        "role": "Tech Lead",
+        "start_date": "2022-04-20",
+        "end_date": "2022-09-15",
+        "success_rating": 0.8315364862926725
+      },
+      {
+        "project_id": 9180,
+        "project_name": "Database Design - Jackson LLC",
+        "role": "Senior Developer",
+        "start_date": "2021-11-04",
+        "end_date": "2021-12-21",
+        "success_rating": 0.7417537368089021
+      },
+      {
+        "project_id": 3525,
+        "project_name": "Database Design - Cox, Hudson and Howard",
+        "role": "Senior Developer",
+        "start_date": "2024-09-18",
+        "end_date": "2024-12-18",
+        "success_rating": 0.9145709173898279
+      }
+    ],
+    "availability_percent": 88,
+    "last_updated": "2025-09-06T19:43:35.166304"
+  },
+  {
+    "employee_id": 9199,
+    "name": "James Evans",
+    "skills": [
+      "Cordova",
+      "Flutter",
+      "ELK Stack",
+      "Canva",
+      "Mocha",
+      "Principle",
+      "Figma"
+    ],
+    "experience_years": 11,
+    "certifications": [
+      "Certified Scrum Master"
+    ],
+    "past_projects": [
+      {
+        "project_id": 1172,
+        "project_name": "Cloud Migration - Clark-Fernandez",
+        "role": "Developer",
+        "start_date": "2024-08-03",
+        "end_date": "2024-12-21",
+        "success_rating": 0.7295819675745182
+      },
+      {
+        "project_id": 9499,
+        "project_name": "API Development - Williams-Walters",
+        "role": "Tech Lead",
+        "start_date": "2022-03-23",
+        "end_date": "2022-08-30",
+        "success_rating": 0.8673980249029062
+      },
+      {
+        "project_id": 7408,
+        "project_name": "API Development - Schultz LLC",
+        "role": "Senior Developer",
+        "start_date": "2021-02-02",
+        "end_date": "2021-06-26",
+        "success_rating": 0.8389189625658293
+      }
+    ],
+    "availability_percent": 63,
+    "last_updated": "2025-09-06T19:43:35.166304"
+  },
+  {
+    "employee_id": 6225,
+    "name": "Kelly Carter",
+    "skills": [
+      "CSS",
+      "Vue.js",
+      "InVision",
+      "Grafana"
+    ],
+    "experience_years": 12,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 8460,
+        "project_name": "Database Design - Jordan and Sons",
+        "role": "Developer",
+        "start_date": "2025-04-30",
+        "end_date": "2025-08-25",
+        "success_rating": 0.9352809992586091
+      },
+      {
+        "project_id": 8801,
+        "project_name": "Performance Optimization - Ford Group",
+        "role": "Developer",
+        "start_date": "2024-11-06",
+        "end_date": "2025-03-05",
+        "success_rating": 0.7292869093377127
+      }
+    ],
+    "availability_percent": 69,
+    "last_updated": "2025-09-06T19:43:35.166304"
+  },
+  {
+    "employee_id": 7481,
+    "name": "Ann Ritter",
+    "skills": [
+      "Pandas",
+      "Cypress",
+      "SQL",
+      "React",
+      "Selenium"
+    ],
+    "experience_years": 10,
+    "certifications": [],
+    "past_projects": [
+      {
+        "project_id": 7985,
+        "project_name": "Cloud Migration - Lynch, Brown and Yu",
+        "role": "Developer",
+        "start_date": "2024-12-10",
+        "end_date": "2025-06-01",
+        "success_rating": 0.9875387865201849
+      },
+      {
+        "project_id": 4022,
+        "project_name": "API Development - Thompson, Ortega and Burns",
+        "role": "Developer",
+        "start_date": "2025-05-27",
+        "end_date": "2025-10-07",
+        "success_rating": 0.7559160775850986
+      }
+    ],
+    "availability_percent": 68,
+    "last_updated": "2025-09-06T19:43:35.167308"
+  },
+  {
+    "employee_id": 7367,
+    "name": "Christopher Roberts",
+    "skills": [
+      "Swift",
+      "Kubernetes",
+      "ELK Stack",
+      "Photoshop"
+    ],
+    "experience_years": 8,
+    "certifications": [
+      "Certified Kubernetes Administrator"
+    ],
+    "past_projects": [
+      {
+        "project_id": 4228,
+        "project_name": "Cloud Migration - Hopkins, Brown and Harding",
+        "role": "Developer",
+        "start_date": "2025-01-06",
+        "end_date": "2025-04-29",
+        "success_rating": 0.8372651266618556
+      },
+      {
+        "project_id": 9646,
+        "project_name": "Database Design - Maldonado Ltd",
+        "role": "Developer",
+        "start_date": "2023-11-01",
+        "end_date": "2024-04-04",
+        "success_rating": 0.9897749199847323
+      }
+    ],
+    "availability_percent": 90,
+    "last_updated": "2025-09-06T19:43:35.168305"
+  },
+  {
+    "employee_id": 5732,
+    "name": "Veronica Murray",
+    "skills": [
+      "AWS",
+      "Kubernetes",
+      "SQL"
+    ],
+    "experience_years": 11,
+    "certifications": [
+      "AWS Certified Developer",
+      "Certified Kubernetes Administrator"
+    ],
+    "past_projects": [
+      {
+        "project_id": 7286,
+        "project_name": "System Integration - Smith Ltd",
+        "role": "Tech Lead",
+        "start_date": "2024-04-20",
+        "end_date": "2024-06-24",
+        "success_rating": 0.8269116346219637
+      },
+      {
+        "project_id": 3838,
+        "project_name": "Performance Optimization - Rivera, Lee and Taylor",
+        "role": "Tech Lead",
+        "start_date": "2024-03-06",
+        "end_date": "2024-08-20",
+        "success_rating": 0.8664737727497492
+      }
+    ],
+    "availability_percent": 85,
+    "last_updated": "2025-09-06T19:43:35.168305"
+  }
+]

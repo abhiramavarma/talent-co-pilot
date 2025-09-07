@@ -1,0 +1,262 @@
+[
+  {
+    "project_id": 18885,
+    "project_name": "Project 1 - Foster, Haynes and Carson",
+    "description": "Software development project for Reilly Group",
+    "project_phase": "TESTING",
+    "priority_level": 5,
+    "team_size_required": 8,
+    "created_at": "2025-09-06T19:42:20.147161",
+    "timeline": [
+      "2025-05-02",
+      "2025-09-12"
+    ]
+  },
+  {
+    "project_id": 10167,
+    "project_name": "Project 2 - Dennis Inc",
+    "description": "Software development project for Rhodes-Rivera",
+    "project_phase": "DESIGN",
+    "priority_level": 7,
+    "team_size_required": 5,
+    "created_at": "2025-09-06T19:42:20.147161",
+    "timeline": [
+      "2025-04-28",
+      "2025-07-07"
+    ]
+  },
+  {
+    "project_id": 65004,
+    "project_name": "Project 3 - Sharp, Pham and Johnston",
+    "description": "Software development project for Williams, George and Holder",
+    "project_phase": "DEVELOPMENT",
+    "priority_level": 7,
+    "team_size_required": 5,
+    "created_at": "2025-09-06T19:42:20.147161",
+    "timeline": [
+      "2025-01-31",
+      "2026-01-16"
+    ]
+  },
+  {
+    "project_id": 56036,
+    "project_name": "Project 4 - Washington, Williams and Nelson",
+    "description": "Software development project for Downs, Dunlap and Kaufman",
+    "project_phase": "DEPLOYMENT",
+    "priority_level": 2,
+    "team_size_required": 8,
+    "created_at": "2025-09-06T19:42:20.148505",
+    "timeline": [
+      "2024-09-15",
+      "2025-03-30"
+    ]
+  },
+  {
+    "project_id": 85766,
+    "project_name": "Project 5 - Conway, Schmitt and Hudson",
+    "description": "Software development project for Faulkner PLC",
+    "project_phase": "DEVELOPMENT",
+    "priority_level": 3,
+    "team_size_required": 5,
+    "created_at": "2025-09-06T19:42:20.148505",
+    "timeline": [
+      "2025-05-02",
+      "2025-12-26"
+    ]
+  },
+  {
+    "project_id": 14379,
+    "project_name": "Project 6 - Davis, Cannon and Cook",
+    "description": "Software development project for Brown-Church",
+    "project_phase": "TESTING",
+    "priority_level": 1,
+    "team_size_required": 4,
+    "created_at": "2025-09-06T19:42:20.148505",
+    "timeline": [
+      "2024-09-20",
+      "2024-11-15"
+    ]
+  },
+  {
+    "project_id": 23726,
+    "project_name": "Project 7 - Cortez Ltd",
+    "description": "Software development project for Johnson, Scott and Brown",
+    "project_phase": "DESIGN",
+    "priority_level": 6,
+    "team_size_required": 3,
+    "created_at": "2025-09-06T19:42:20.148505",
+    "timeline": [
+      "2025-07-08",
+      "2025-11-25"
+    ]
+  },
+  {
+    "project_id": 31090,
+    "project_name": "Project 8 - Patterson-Ruiz",
+    "description": "Software development project for Gonzalez, Gomez and Hamilton",
+    "project_phase": "DESIGN",
+    "priority_level": 9,
+    "team_size_required": 2,
+    "created_at": "2025-09-06T19:42:20.149504",
+    "timeline": [
+      "2024-12-13",
+      "2025-06-27"
+    ]
+  },
+  {
+    "project_id": 87860,
+    "project_name": "Project 9 - Fischer PLC",
+    "description": "Software development project for Jimenez, Hurst and Warner",
+    "project_phase": "DEPLOYMENT",
+    "priority_level": 1,
+    "team_size_required": 5,
+    "created_at": "2025-09-06T19:42:20.149504",
+    "timeline": [
+      "2025-01-18",
+      "2025-07-12"
+    ]
+  },
+  {
+    "project_id": 31626,
+    "project_name": "Project 10 - Wiggins-Ruiz",
+    "description": "Software development project for Mooney-Davis",
+    "project_phase": "DEPLOYMENT",
+    "priority_level": 3,
+    "team_size_required": 2,
+    "created_at": "2025-09-06T19:42:20.149504",
+    "timeline": [
+      "2025-05-05",
+      "2026-03-16"
+    ]
+  },
+  {
+    "project_id": 53397,
+    "project_name": "Project 11 - Martin, Rivera and Warren",
+    "description": "Software development project for Conrad Ltd",
+    "project_phase": "DEVELOPMENT",
+    "priority_level": 4,
+    "team_size_required": 5,
+    "created_at": "2025-09-06T19:42:20.150505",
+    "timeline": [
+      "2025-04-05",
+      "2025-06-14"
+    ]
+  },
+  {
+    "project_id": 82628,
+    "project_name": "Project 12 - Burton PLC",
+    "description": "Software development project for Barajas, Freeman and Lopez",
+    "project_phase": "TESTING",
+    "priority_level": 5,
+    "team_size_required": 4,
+    "created_at": "2025-09-06T19:42:20.150505",
+    "timeline": [
+      "2025-05-26",
+      "2026-04-27"
+    ]
+  },
+  {
+    "project_id": 22571,
+    "project_name": "Project 13 - Fuller-Johnson",
+    "description": "Software development project for Villarreal Group",
+    "project_phase": "DESIGN",
+    "priority_level": 7,
+    "team_size_required": 6,
+    "created_at": "2025-09-06T19:42:20.150505",
+    "timeline": [
+      "2025-08-01",
+      "2025-12-12"
+    ]
+  },
+  {
+    "project_id": 74349,
+    "project_name": "Project 14 - Reed-Rush",
+    "description": "Software development project for Martinez and Sons",
+    "project_phase": "DEVELOPMENT",
+    "priority_level": 1,
+    "team_size_required": 4,
+    "created_at": "2025-09-06T19:42:20.150505",
+    "timeline": [
+      "2025-01-18",
+      "2025-10-18"
+    ]
+  },
+  {
+    "project_id": 66047,
+    "project_name": "Project 15 - Torres, Decker and James",
+    "description": "Software development project for Bowen and Sons",
+    "project_phase": "DESIGN",
+    "priority_level": 5,
+    "team_size_required": 8,
+    "created_at": "2025-09-06T19:42:20.150505",
+    "timeline": [
+      "2024-11-27",
+      "2024-12-25"
+    ]
+  },
+  {
+    "project_id": 91931,
+    "project_name": "Project 16 - Cortez Inc",
+    "description": "Software development project for Becker, Norton and Trevino",
+    "project_phase": "DEPLOYMENT",
+    "priority_level": 4,
+    "team_size_required": 2,
+    "created_at": "2025-09-06T19:42:20.150505",
+    "timeline": [
+      "2024-09-06",
+      "2025-07-25"
+    ]
+  },
+  {
+    "project_id": 37125,
+    "project_name": "Project 17 - Murphy-Blanchard",
+    "description": "Software development project for Adams, Jimenez and Garza",
+    "project_phase": "DEVELOPMENT",
+    "priority_level": 5,
+    "team_size_required": 2,
+    "created_at": "2025-09-06T19:42:20.151746",
+    "timeline": [
+      "2024-11-25",
+      "2024-12-30"
+    ]
+  },
+  {
+    "project_id": 25139,
+    "project_name": "Project 18 - Tucker and Sons",
+    "description": "Software development project for Browning Group",
+    "project_phase": "TESTING",
+    "priority_level": 7,
+    "team_size_required": 5,
+    "created_at": "2025-09-06T19:42:20.151746",
+    "timeline": [
+      "2025-01-24",
+      "2025-09-19"
+    ]
+  },
+  {
+    "project_id": 96643,
+    "project_name": "Project 19 - Luna, Alvarez and Yates",
+    "description": "Software development project for Ferguson, Gibson and Mathis",
+    "project_phase": "TESTING",
+    "priority_level": 2,
+    "team_size_required": 7,
+    "created_at": "2025-09-06T19:42:20.151746",
+    "timeline": [
+      "2024-10-05",
+      "2025-06-07"
+    ]
+  },
+  {
+    "project_id": 60793,
+    "project_name": "Project 20 - Bradshaw, Mcpherson and Franklin",
+    "description": "Software development project for Mcdaniel, Cameron and Madden",
+    "project_phase": "DEVELOPMENT",
+    "priority_level": 6,
+    "team_size_required": 5,
+    "created_at": "2025-09-06T19:42:20.152744",
+    "timeline": [
+      "2024-09-08",
+      "2025-06-01"
+    ]
+  }
+]

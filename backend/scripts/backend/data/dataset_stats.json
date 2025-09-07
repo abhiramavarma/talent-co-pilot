@@ -1,0 +1,36 @@
+{
+  "generation_date": "2025-09-06T19:42:20.162263",
+  "total_employees": 100,
+  "total_projects": 20,
+  "employee_stats": {
+    "by_education": {
+      "Unknown": 100
+    },
+    "by_experience_range": {
+      "3-5 years": 21,
+      "9+ years": 41,
+      "0-2 years": 19,
+      "6-8 years": 19
+    },
+    "by_role_level": {},
+    "total_skills": 91
+  },
+  "project_stats": {
+    "by_phase": {
+      "TESTING": 5,
+      "DESIGN": 5,
+      "DEVELOPMENT": 6,
+      "DEPLOYMENT": 4
+    },
+    "by_priority": {
+      "5-5": 4,
+      "7-7": 4,
+      "2-2": 2,
+      "3-3": 2,
+      "1-1": 3,
+      "6-6": 2,
+      "9-9": 1,
+      "4-4": 2
+    }
+  }
+}

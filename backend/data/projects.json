@@ -1,0 +1,262 @@
+[
+  {
+    "project_id": 34523,
+    "project_name": "The AI Healthcare Bot System is a Python-based chatbot designed to assist patien...",
+    "description": "The AI Healthcare Bot System is a Python-based chatbot designed to assist patients by providing instant medical guidance and emergency support. Patients can interact with the chatbot to ask health-related questions, receive precautionary advice, and find nearby doctors, clinics, or hospitals. The chatbot leverages AI to analyze queries and generate accurate responses.\nThe system includes:\nA Patient Module where users can register, provide medical history, and interact with the chatbot.\nA Chatbot Module that processes patient queries and provides AI-generated responses.\nA Query Management System to store and analyze previous questions and responses.\nA Medical Facility Directory that helps patients locate doctors, hospitals, and clinics based on their current location.\nA Doctor Database where verified doctors are listed with their specializations and availability.",
+    "project_phase": "TESTING",
+    "priority_level": 8,
+    "team_size_required": 6,
+    "created_at": "2025-09-06T19:43:35.172363",
+    "timeline": [
+      "2025-06-11",
+      "2025-09-03"
+    ]
+  },
+  {
+    "project_id": 57059,
+    "project_name": "Calories Tracker System\nThe Calories Tracker System is a Flutter-based mobile he...",
+    "description": "Calories Tracker System\nThe Calories Tracker System is a Flutter-based mobile health (mHealth) application designed to assist users in weight management by monitoring their diet and physical activity. The system helps users balance caloric intake and expenditure, promoting a healthier lifestyle.\nTo access the system, users must register and log in with their basic details. Once authenticated, they can maintain a food diary, where they log daily food consumption, track calorie intake, and set personalized dietary goals. The system allows users to add, update, and delete food entries, ensuring accurate monitoring of their nutrition.\nThe application automatically calculates and displays the Body Mass Index (BMI) and Basal Metabolic Rate (BMR) based on user inputs. Users can set weight goals and track their progress over time by manually updating their weight entries, which can be viewed based on specific dates.",
+    "project_phase": "DESIGN",
+    "priority_level": 8,
+    "team_size_required": 3,
+    "created_at": "2025-09-06T19:43:35.172363",
+    "timeline": [
+      "2024-11-16",
+      "2025-01-04"
+    ]
+  },
+  {
+    "project_id": 60324,
+    "project_name": "With the help of ever-evolving internet technology, we can now stay connected wi...",
+    "description": "With the help of ever-evolving internet technology, we can now stay connected with anyone and from almost any corner of the world. The same widely spread internet network can be utilized to help out people in need of emergency. This android based safety application proposed here aims at raising alerts & send notifications if anyone is facing any emergency in the form of any threat from someone, health emergency, accidental emergency, etc.\nThe user can add his important contacts in the system whom he wants to inform in case of emergency. The user can send alerts through this application in the form of text, photo, video indicating an emergency along with other location details. The user can also receive alerts from his contacts in case they require any help. The users can also receive emergency information around their areas. In this way, this android-based safety application can help a group of people stay connected & help each other in case of any emergency in the least time possible.\nThis Application adds safety to the users by providing them the emergency information of their areas through timely notifications in their apps through an Admin portal which is also an android application. Users of Safety app can send threat alerts to the admin and the contacts added in the app. Admin when receives the threat then addressed the threat of the user which helps users of Safety app to reach for help and also alert its contacts.",
+    "project_phase": "DEPLOYMENT",
+    "priority_level": 7,
+    "team_size_required": 7,
+    "created_at": "2025-09-06T19:43:35.173738",
+    "timeline": [
+      "2024-12-24",
+      "2025-04-15"
+    ]
+  },
+  {
+    "project_id": 64477,
+    "project_name": "Getting a loan is a very tiring and complicated process in India",
+    "description": "Getting a loan is a very tiring and complicated process in India. It may take weeks even months for loans to get approved and people have to visit the loan office again and again for document and verification. Here our proposed project automates the loan process from both, bankers as well as customers side. Here customers may see various loans provided along with rate of interest and required documents. Here once the customer fills basic enquiry form, it reaches the bank server he gets a login id password.. The server administrator now can check it and select weather to go forward or reject the candidate. If he needs to go forward the banker may select to send customer to next stage. Now the customer gets stage 1 approval and needs to upload his scanned documents to the site through his login. Once the documents are submitted they are cross verified at the server and reply is sent to server. The system server also gets the person location and his image secretly by tracking the computer through which he submits documents to the bank server needed for bank verification. The bank may now cross verify customer details and also request extra documents by sending online alerts to the customer email. The customer just needs to upload needed documents online and can also track loan status. He gets an sms once his loan has been approved confirming the process.",
+    "project_phase": "DEPLOYMENT",
+    "priority_level": 8,
+    "team_size_required": 3,
+    "created_at": "2025-09-06T19:43:35.175140",
+    "timeline": [
+      "2025-04-28",
+      "2025-12-29"
+    ]
+  },
+  {
+    "project_id": 84107,
+    "project_name": "Blogging Platform with Markdown Editor\nDescription: A blogging platform where us...",
+    "description": "Blogging Platform with Markdown Editor\nDescription: A blogging platform where users can write, edit, and publish posts using a Markdown editor. Users can view and comment on each other's posts.",
+    "project_phase": "DESIGN",
+    "priority_level": 4,
+    "team_size_required": 4,
+    "created_at": "2025-09-06T19:43:35.175140",
+    "timeline": [
+      "2025-07-31",
+      "2025-10-02"
+    ]
+  },
+  {
+    "project_id": 46025,
+    "project_name": "Weather forecasting system\nThis project can be appropriate for you if you are ne...",
+    "description": "Weather forecasting system\nThis project can be appropriate for you if you are new to software development and are looking for simple project themes.\nWeather forecasting systems create precise predictions about the weather at a certain location and time by combining science and technology. Applications and systems for weather forecasting make predictions about the weather based on a variety of factors, including wind speed, humidity, temperature, pressure, and so forth.",
+    "project_phase": "DEVELOPMENT",
+    "priority_level": 9,
+    "team_size_required": 4,
+    "created_at": "2025-09-06T19:43:35.176506",
+    "timeline": [
+      "2025-05-04",
+      "2025-06-15"
+    ]
+  },
+  {
+    "project_id": 69942,
+    "project_name": "Music Recommendation System:\nProblem Statement: Address the need for personalize...",
+    "description": "Music Recommendation System:\nProblem Statement: Address the need for personalized and accurate music recommendations by developing a Music Recommendation System, providing users with tailored music suggestions based on their preferences.",
+    "project_phase": "DEPLOYMENT",
+    "priority_level": 9,
+    "team_size_required": 6,
+    "created_at": "2025-09-06T19:43:35.177503",
+    "timeline": [
+      "2024-11-12",
+      "2025-02-18"
+    ]
+  },
+  {
+    "project_id": 85066,
+    "project_name": "Customer Relationship Management (CRM) Tool\nDescription: Build a CRM tool for sm...",
+    "description": "Customer Relationship Management (CRM) Tool\nDescription: Build a CRM tool for small businesses to manage customers, track leads, and analyze sales performance.",
+    "project_phase": "DESIGN",
+    "priority_level": 5,
+    "team_size_required": 8,
+    "created_at": "2025-09-06T19:43:35.177503",
+    "timeline": [
+      "2025-05-18",
+      "2025-08-03"
+    ]
+  },
+  {
+    "project_id": 58085,
+    "project_name": "Simple Timer and Stopwatch\nDescription: A simple timer and stopwatch app for pro...",
+    "description": "Simple Timer and Stopwatch\nDescription: A simple timer and stopwatch app for productivity tracking.\nTech Stack: React, Local Storage, Tailwind CSS.\nFeatures:\nSet timers for specific tasks\nStart, pause, and reset functionality\nLap and split-time tracking\nDark mode for night usage",
+    "project_phase": "DESIGN",
+    "priority_level": 8,
+    "team_size_required": 6,
+    "created_at": "2025-09-06T19:43:35.178504",
+    "timeline": [
+      "2025-04-07",
+      "2025-12-29"
+    ]
+  },
+  {
+    "project_id": 65725,
+    "project_name": "Inventory Management System for Small Businesses\nDescription: An inventory manag...",
+    "description": "Inventory Management System for Small Businesses\nDescription: An inventory management tool designed for small businesses to track stock and manage products.\nTech Stack: Next.js, Firebase, Tailwind CSS.\nFeatures:\nAdd and organize products with details\nReal-time inventory updates\nSales tracking and low-stock alerts\nReports for inventory valuation",
+    "project_phase": "DESIGN",
+    "priority_level": 4,
+    "team_size_required": 4,
+    "created_at": "2025-09-06T19:43:35.179506",
+    "timeline": [
+      "2025-02-08",
+      "2025-06-07"
+    ]
+  },
+  {
+    "project_id": 68947,
+    "project_name": "Project Description:\nA system designed to provide real-time tracking of internat...",
+    "description": "Project Description:\nA system designed to provide real-time tracking of international shipments for importers, exporters, and logistics providers. It integrates with various carrier APIs to deliver status updates, estimated delivery times, and alerts on delays or customs clearance issues, improving visibility and customer satisfaction.\nKey Features:\nReal-time shipment status tracking via carrier API integration\nEstimated time of arrival (ETA) updates and route visualization\nAutomated notifications via email, SMS, or app push alerts\nCustoms clearance status and documentation updates\nMulti-shipment dashboard for portfolio monitoring\nException management with delay or damage alerts\nUser role-based access for shippers, receivers, and agents",
+    "project_phase": "TESTING",
+    "priority_level": 6,
+    "team_size_required": 8,
+    "created_at": "2025-09-06T19:43:35.180768",
+    "timeline": [
+      "2025-07-09",
+      "2025-08-20"
+    ]
+  },
+  {
+    "project_id": 67549,
+    "project_name": "Proof of Delivery (POD) Management System\nDescription:\nA digital system for coll...",
+    "description": "Proof of Delivery (POD) Management System\nDescription:\nA digital system for collecting, storing, and verifying proof of delivery including recipient signatures, delivery photos, and timestamps, linked to each delivery record.\nKey Features:\nDigital Signature Capture\nPhoto Proof Upload\nTime & Location Stamp\nPOD Record Storage\nCustomer Confirmation\nVerification Panel",
+    "project_phase": "DESIGN",
+    "priority_level": 4,
+    "team_size_required": 3,
+    "created_at": "2025-09-06T19:43:35.181767",
+    "timeline": [
+      "2025-05-30",
+      "2025-08-01"
+    ]
+  },
+  {
+    "project_id": 87060,
+    "project_name": "Project Title:\nUniversity Attendance Management System\nProject Description:\nThe ...",
+    "description": "Project Title:\nUniversity Attendance Management System\nProject Description:\nThe University Attendance Management System is a digital platform designed to streamline the process of tracking and managing student attendance across various departments and courses. It enables faculty members to record attendance efficiently (manually or automatically), while students and administrators can view attendance records in real-time. This system ensures accuracy, reduces administrative overhead, and helps in maintaining academic discipline.\nIt also supports advanced features like biometric integration, absence notifications, analytics, and report generation, making it ideal for both in-person and hybrid learning environments.\nKey Features:\n1. Student Attendance Recording\nFaculty can mark daily or session-wise attendance\nOptions for manual entry or integration with biometric/RFID/QR code systems\nSeparate records for theory and lab sessions\n2. Real-Time Dashboard\nFaculty dashboard for viewing subject-wise attendance\nStudent dashboard to track personal attendance percentage\nVisual calendar showing present/absent days\n3. Attendance Reports & Analytics\nSubject-wise and semester-wise attendance reports\nDownloadable attendance sheets (PDF/Excel)\nGraphical analytics on attendance trends\n4. Notification System\nAutomated SMS/email alerts for low attendance\nReal-time notifications for students marked absent\nBulk reminders for upcoming classes or holidays\n5. Leave Management\nStudents can apply for short or long-term leaves\nFaculty or admin approval workflow\nAuto-exclusion of approved leaves from attendance calculation\n6. Subject and Timetable Integration\nTimetable setup for automated attendance slots\nSupport for elective and core subjects\nFaculty mapping per subject and section\n7. Role-Based Access Control\nFaculty: Mark/view/edit attendance\nStudents: View own attendance only\nAdmin: Full access for monitoring and editing\n8. Multi-Campus & Department Support\nScalable for universities with multiple departments or campuses\nDepartment-wise attendance segregation\n9. Audit Log\nTrack attendance entry/edit history for transparency\nPrevent unauthorized changes\n10. Mobile & Web Access\nResponsive web interface\nOptional mobile app for on-the-go access",
+    "project_phase": "TESTING",
+    "priority_level": 10,
+    "team_size_required": 7,
+    "created_at": "2025-09-06T19:43:35.182767",
+    "timeline": [
+      "2025-07-18",
+      "2026-07-10"
+    ]
+  },
+  {
+    "project_id": 31755,
+    "project_name": "Description:\nThe official COVID-19 information portal for Bangladesh shares up-t...",
+    "description": "Description:\nThe official COVID-19 information portal for Bangladesh shares up-to-date data on infection rates, vaccination progress, government advisories, and related resources during the pandemic.\n\ud83d\udd11 Key Features:\nDaily COVID-19 case updates and statistics\nVaccination data and schedules\nHealth advisories and safety protocols\nTesting center information\nResource downloads and press releases",
+    "project_phase": "DEVELOPMENT",
+    "priority_level": 4,
+    "team_size_required": 8,
+    "created_at": "2025-09-06T19:43:35.183765",
+    "timeline": [
+      "2025-03-01",
+      "2025-10-04"
+    ]
+  },
+  {
+    "project_id": 17780,
+    "project_name": "Post-Investment Support and Grievance Management System\nProject Description:\nThe...",
+    "description": "Post-Investment Support and Grievance Management System\nProject Description:\nThe Post-Investment Support and Grievance Management System is a dedicated digital platform where existing investors in Bangladesh can raise concerns, seek post-approval services, and get institutional support from BIDA. It ensures that investment-related bottlenecks\u2014such as customs delays, utility issues, regulatory conflicts, or land problems\u2014are resolved in a structured and timely manner.\nThis system strengthens investor satisfaction and retention by providing continuous engagement even after an investment is made.\nKey Features:\n1. Investor Support Ticketing System\nInvestors can log complaints, service requests, or policy-related issues.\nEach ticket is assigned a unique ID with real-time tracking.\n2. Categorized Grievance Types\nUtility (electricity, water, gas)\nCustoms/port clearance delays\nTax/VAT issues\nLand allocation or leasing delays\nRegulatory permissions or inspections\n3. Departmental Routing\nGrievances are automatically routed to relevant ministries, agencies, or BIDA focal points.\nEscalation matrix if responses are delayed beyond SLA (Service Level Agreement) timeframes.\n4. Status Updates & Communication\nEmail/SMS notifications for ticket acknowledgment, response, and resolution.\nTwo-way communication panel between investor and BIDA officials.\n5. Investor Feedback System\nPost-resolution rating and feedback form to assess issue handling quality.\nData used for performance monitoring of government services.\n6. Internal Dashboard for BIDA\nTrack unresolved cases, resolution timelines, and department-wise backlogs.\nFilter cases by investment region, sector, or severity.\n7. Document and Evidence Upload\nInvestors can attach supporting documents, photos, or scanned letters for context.\nBIDA officials can respond with circulars or clarifications.\n8. Analytics and Heatmaps\nIdentify recurring issues by agency or location.\nProvide monthly reports to ministries and departments for systemic improvements.\n9. Confidential Escalation Channel\nOption for sensitive issues to be raised directly to senior BIDA leadership.\nAnonymous reporting for corruption, discrimination, or harassment cases.\n10. Multilingual Support and Mobile Access\nSupport for both Bangla and English.\nMobile-responsive design for easier access by SMEs and rural investors.",
+    "project_phase": "TESTING",
+    "priority_level": 9,
+    "team_size_required": 4,
+    "created_at": "2025-09-06T19:43:35.185008",
+    "timeline": [
+      "2025-08-12",
+      "2025-12-09"
+    ]
+  },
+  {
+    "project_id": 80617,
+    "project_name": "Dynamic Delivery Route Optimizer\nDescription:\nA system that calculates the faste...",
+    "description": "Dynamic Delivery Route Optimizer\nDescription:\nA system that calculates the fastest and most efficient delivery route for multiple orders using real-time traffic data and delivery priorities.\nKey Features:\nReal-Time Traffic Integration\nMulti-Order Optimization\nRoute Recalculation\nEstimated Time of Arrival (ETA) Updates\nGoogle Maps/Mapbox Integration\nDelivery Priority Handling",
+    "project_phase": "DEVELOPMENT",
+    "priority_level": 6,
+    "team_size_required": 7,
+    "created_at": "2025-09-06T19:43:35.186008",
+    "timeline": [
+      "2025-02-24",
+      "2025-12-15"
+    ]
+  },
+  {
+    "project_id": 47923,
+    "project_name": "Live eSports Commentary and Analysis Tool\nDescription:\nA tool for commentators a...",
+    "description": "Live eSports Commentary and Analysis Tool\nDescription:\nA tool for commentators and analysts to provide live commentary with in-depth data insights, replays, and viewer polls.\nKey Features:\nMatch Timeline Integration\nLive Stats Feed\nReal-Time Polls and Viewer Reactions\nHighlight Clip Creation\nCommentator Notes\nMulti-Screen Support",
+    "project_phase": "TESTING",
+    "priority_level": 9,
+    "team_size_required": 7,
+    "created_at": "2025-09-06T19:43:35.187008",
+    "timeline": [
+      "2025-08-06",
+      "2026-01-07"
+    ]
+  },
+  {
+    "project_id": 27771,
+    "project_name": "Niche Content Streaming Platform (e",
+    "description": "Niche Content Streaming Platform (e.g., Indie Films or Documentaries)\nDescription:\nA curated streaming service that focuses on a specific content category such as indie films, short documentaries, or cultural content, offering a platform for lesser-known creators to showcase their work.\nKey Features:\nCurated Content Categories\nCreator Profile & Upload Portal\nSubscription and Pay-Per-View Options\nFilm Ratings & Reviews\nTrailer Previews\nWatchlist and Recommendation Engine",
+    "project_phase": "DEPLOYMENT",
+    "priority_level": 1,
+    "team_size_required": 4,
+    "created_at": "2025-09-06T19:43:35.188007",
+    "timeline": [
+      "2024-12-29",
+      "2025-03-09"
+    ]
+  },
+  {
+    "project_id": 26631,
+    "project_name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+    "project_phase": "DEVELOPMENT",
+    "priority_level": 4,
+    "team_size_required": 3,
+    "created_at": "2025-09-06T19:43:35.189007",
+    "timeline": [
+      "2024-11-19",
+      "2025-09-30"
+    ]
+  },
+  {
+    "project_id": 52217,
+    "project_name": "Stars flickered above like tiny lanterns in the dark",
+    "description": "Stars flickered above like tiny lanterns in the dark.",
+    "project_phase": "DEVELOPMENT",
+    "priority_level": 7,
+    "team_size_required": 5,
+    "created_at": "2025-09-06T19:43:35.190007",
+    "timeline": [
+      "2024-11-24",
+      "2025-11-02"
+    ]
+  }
+]
